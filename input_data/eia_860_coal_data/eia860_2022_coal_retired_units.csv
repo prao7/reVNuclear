@@ -1,0 +1,667 @@
+﻿Utility ID,Utility Name,Plant Code,Plant Name,State,County,Generator ID,Prime Mover,Unit Code,Nameplate Capacity (MW),Summer Capacity (MW),Winter Capacity (MW),Status,Energy Source 1,Energy Source 2,Operating Month,Operating Year,Retirement Month,Retirement Year
+195,Alabama Power Co,3,Barry,AL,Mobile,3,ST,,272,249,249,RE,BIT,,7,1959,8,2015
+195,Alabama Power Co,8,Gorgas,AL,Walker,10,ST,,788.8,727.7,727.7,RE,BIT,,10,1972,4,2019
+195,Alabama Power Co,8,Gorgas,AL,Walker,6,ST,,125,103,103,RE,BIT,,4,1951,8,2015
+195,Alabama Power Co,8,Gorgas,AL,Walker,7,ST,,125,104,104,RE,BIT,,7,1952,8,2015
+195,Alabama Power Co,8,Gorgas,AL,Walker,8,ST,,187.5,163,163,RE,BIT,,5,1956,4,2019
+195,Alabama Power Co,8,Gorgas,AL,Walker,9,ST,,190.4,172,172,RE,BIT,,6,1958,4,2019
+18642,Tennessee Valley Authority,47,Colbert,AL,Colbert,1,ST,,200,178,182,RE,BIT,SUB,1,1955,4,2016
+18642,Tennessee Valley Authority,47,Colbert,AL,Colbert,2,ST,,200,178,182,RE,BIT,SUB,3,1955,4,2016
+18642,Tennessee Valley Authority,47,Colbert,AL,Colbert,3,ST,,200,178,182,RE,BIT,SUB,7,1955,4,2016
+18642,Tennessee Valley Authority,47,Colbert,AL,Colbert,4,ST,,200,178,182,RE,BIT,SUB,11,1955,4,2016
+18642,Tennessee Valley Authority,47,Colbert,AL,Colbert,5,ST,,550,472,481,RE,BIT,,11,1965,4,2016
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,1,ST,,140.6,111,113,RE,BIT,,7,1952,7,2014
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,2,ST,,140.6,111,113,RE,BIT,,10,1952,7,2014
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,3,ST,,140.6,111,113,RE,BIT,,11,1952,7,2013
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,4,ST,,140.6,111,113,RE,BIT,,1,1953,7,2014
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,5,ST,,140.6,111,113,RE,BIT,,6,1954,7,2013
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,6,ST,,140.6,111,113,RE,BIT,,7,1954,7,2014
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,7,ST,,575,473,476,RE,BIT,,2,1961,9,2015
+18642,Tennessee Valley Authority,50,Widows Creek,AL,Jackson,8,ST,,550,465,469,RE,BIT,,2,1965,9,2015
+3265,Cleco Power LLC,51,Dolet Hills,LA,DeSoto,1,ST,,720.7,634.8,638,RE,LIG,,4,1986,12,2021
+5580,"East Kentucky Power Coop, Inc",54,J K Smith,KY,Clark,ST1,ST,,329.4,278,278,CN,BIT,, , , , 
+189,PowerSouth Energy Cooperative,56,Lowman Energy Center,AL,Washington,1,ST,,66,78,78,RE,BIT,,6,1969,10,2020
+189,PowerSouth Energy Cooperative,56,Lowman Energy Center,AL,Washington,2,ST,,236,238,238,RE,BIT,,6,1978,10,2020
+189,PowerSouth Energy Cooperative,56,Lowman Energy Center,AL,Washington,3,ST,,236,238,238,RE,BIT,,6,1980,10,2020
+986,Aurora Energy LLC,79,Aurora Energy LLC Chena,AK,Fairbanks North Star,3,ST,,1.5,1.5,1.5,RE,SUB,,6,1952,8,2009
+986,Aurora Energy LLC,79,Aurora Energy LLC Chena,AK,Fairbanks North Star,7,ST,,2.3,2.3,2.3,IP,SUB,, , , , 
+30151,"Tri-State G & T Assn, Inc",87,Escalante,NM,McKinley,1,ST,,257,253,253,RE,SUB,NG,12,1984,11,2020
+803,Arizona Public Service Co,113,Cholla,AZ,Navajo,2,ST,,288.9,260,260,RE,SUB,DFO,6,1978,11,2015
+803,Arizona Public Service Co,113,Cholla,AZ,Navajo,4,ST,,414,380,380,RE,SUB,DFO,6,1981,12,2020
+21554,Seminole Electric Cooperative Inc,136,Seminole (FL),FL,Putnam,3,ST,,850,750,750,CN,BIT,, , , , 
+7490,Grand River Dam Authority,165,GREC,OK,Mayes,1,ST,,540,540,540,RE,SUB,,6,1981,12,2020
+9617,JEA,207,St Johns River Power Park,FL,Duval,1,ST,,679,626,638,RE,BIT,NG,4,1987,1,2018
+9617,JEA,207,St Johns River Power Park,FL,Duval,2,ST,,679,626,638,RE,BIT,NG,7,1988,1,2018
+56146,"Black Hills Colorado Electric, LLC",462,W N Clark,CO,Fremont,1,ST,,18.7,16,16,RE,BIT,WDS,9,1955,12,2013
+56146,"Black Hills Colorado Electric, LLC",462,W N Clark,CO,Fremont,2,ST,,25,24.9,24.9,RE,BIT,WDS,1,1959,12,2013
+15466,Public Service Co of Colorado,465,Arapahoe,CO,Denver,1,ST,,44,45,45,RE,SUB,NG,0,1950,12,2002
+15466,Public Service Co of Colorado,465,Arapahoe,CO,Denver,2,ST,,44,45,45,RE,SUB,NG,0,1951,12,2002
+15466,Public Service Co of Colorado,465,Arapahoe,CO,Denver,3,ST,,40,35,40,RE,SUB,NG,6,1951,12,2013
+15466,Public Service Co of Colorado,465,Arapahoe,CO,Denver,4,ST,,112.5,109,109,RE,SUB,NG,6,1955,12,2013
+15466,Public Service Co of Colorado,468,Cameo,CO,Mesa,1,ST,,25,23.7,23.7,RE,BIT,NG,0,1957,12,2010
+15466,Public Service Co of Colorado,468,Cameo,CO,Mesa,2,ST,,50,49,49,RE,BIT,NG,0,1960,12,2010
+15466,Public Service Co of Colorado,469,Cherokee,CO,Adams,1,ST,,125,107,107,RE,BIT,NG,6,1957,4,2012
+15466,Public Service Co of Colorado,469,Cherokee,CO,Adams,2,ST,,125,106,106,RE,BIT,NG,6,1959,10,2011
+15466,Public Service Co of Colorado,469,Cherokee,CO,Adams,3,ST,,170.5,152,152,RE,BIT,NG,6,1962,8,2015
+15466,Public Service Co of Colorado,470,Comanche (CO),CO,Pueblo,1,ST,,382.5,325,325,RE,SUB,NG,6,1973,12,2022
+15466,Public Service Co of Colorado,477,Valmont,CO,Boulder,5,ST,,191.7,184,184,RE,BIT,NG,5,1964,9,2017
+3989,City of Colorado Springs - (CO),492,South Plant,CO,El Paso,5,ST,,50,46,46,RE,SUB,NG,11,1962,12,2016
+3989,City of Colorado Springs - (CO),492,South Plant,CO,El Paso,6,ST,,75,77,77,RE,SUB,NG,10,1968,8,2022
+10633,City of Lamar - (CO),508,Lamar Plant,CO,Prowers,4,ST,,25,25,25,RE,SUB,,8,1972,11,2011
+10633,City of Lamar - (CO),508,Lamar Plant,CO,Prowers,6,ST,,18.5,15,15,RE,SUB,,5,2009,9,2014
+19204,City of Trinidad - (CO),511,Trinidad (CO),CO,Las Animas,1,ST,,3.7,3.8,3.8,RE,BIT,,5,1950,1,2017
+30151,"Tri-State G & T Assn, Inc",527,Nucla,CO,Montrose,1,ST,,11.5,12,12,RE,BIT,WO,11,1959,9,2019
+30151,"Tri-State G & T Assn, Inc",527,Nucla,CO,Montrose,2,ST,,11.5,12,12,RE,BIT,WO,11,1959,9,2019
+30151,"Tri-State G & T Assn, Inc",527,Nucla,CO,Montrose,3,ST,,11.5,12,12,RE,BIT,WO,11,1959,9,2019
+30151,"Tri-State G & T Assn, Inc",527,Nucla,CO,Montrose,ST4,ST,,79.3,64,64,RE,BIT,WO,1,1991,9,2019
+65448,"Generation Bridge II Connecticut, LLC",568,Bridgeport Station,CT,Fairfield,3,ST,,400,257.6,323.5,RE,SUB,DFO,8,1968,6,2021
+9332,Indian River Operations Inc,594,Indian River Generating Station,DE,Sussex,1,ST,,81.6,89,89,RE,BIT,DFO,10,1957,7,2013
+9332,Indian River Operations Inc,594,Indian River Generating Station,DE,Sussex,2,ST,,81.6,89,89,RE,BIT,DFO,11,1959,7,2013
+9332,Indian River Operations Inc,594,Indian River Generating Station,DE,Sussex,3,ST,,176.8,165,165,RE,BIT,DFO,3,1970,1,2014
+6455,"Duke Energy Florida, LLC",628,Crystal River,FL,Citrus,1,ST,,440.5,324,332,RE,BIT,,10,1966,12,2018
+6455,"Duke Energy Florida, LLC",628,Crystal River,FL,Citrus,2,ST,,523.8,442,448,RE,BIT,,11,1969,12,2018
+6452,Florida Power & Light Co,642,Scholz,FL,Jackson,1,ST,,49,46,46,RE,BIT,,3,1953,4,2015
+6452,Florida Power & Light Co,642,Scholz,FL,Jackson,2,ST,,49,46,46,RE,BIT,,10,1953,4,2015
+6452,Florida Power & Light Co,643,Lansing Smith,FL,Bay,1,ST,,149.6,162,162,RE,BIT,,6,1965,3,2016
+6452,Florida Power & Light Co,643,Lansing Smith,FL,Bay,2,ST,,190.4,195,195,RE,BIT,,6,1967,3,2016
+18454,Tampa Electric Co,645,Big Bend,FL,Hillsborough,ST2,ST,,445.5,385,395,RE,BIT,NG,4,1973,12,2021
+18454,Tampa Electric Co,646,F J Gannon,FL,Hillsborough,1,ST,,125,94,94,RE,BIT,PC,9,1957,1,2004
+18454,Tampa Electric Co,646,F J Gannon,FL,Hillsborough,2,ST,,125,100,100,RE,BIT,PC,11,1958,1,2004
+18454,Tampa Electric Co,646,F J Gannon,FL,Hillsborough,3,ST,,179.5,150,155,RE,BIT,PC,10,1960,12,2003
+18454,Tampa Electric Co,646,F J Gannon,FL,Hillsborough,4,ST,,187.5,164,164,RE,BIT,PC,11,1963,12,2003
+10623,City of Lakeland - (FL),676,C D McIntosh Jr,FL,Polk,3,ST,,363.8,342,342,RE,BIT,NG,9,1982,4,2021
+7140,Georgia Power Co,699,Arkwright,GA,Bibb,3,ST,,40.2,42,42,RE,BIT,NG,12,1943,12,2002
+7140,Georgia Power Co,699,Arkwright,GA,Bibb,4,ST,,49,44,44,RE,BIT,NG,11,1948,7,2002
+7140,Georgia Power Co,708,Hammond,GA,Floyd,1,ST,,125,110,110,RE,BIT,DFO,6,1954,7,2019
+7140,Georgia Power Co,708,Hammond,GA,Floyd,2,ST,,125,110,110,RE,BIT,DFO,9,1954,7,2019
+7140,Georgia Power Co,708,Hammond,GA,Floyd,3,ST,,125,110,110,RE,BIT,DFO,6,1955,7,2019
+7140,Georgia Power Co,708,Hammond,GA,Floyd,4,ST,,578,510,510,RE,BIT,DFO,12,1970,7,2019
+7140,Georgia Power Co,709,Harllee Branch,GA,Putnam,1,ST,,299.2,266,266,RE,BIT,DFO,6,1965,4,2015
+7140,Georgia Power Co,709,Harllee Branch,GA,Putnam,2,ST,,359,325,325,RE,BIT,DFO,6,1967,9,2013
+7140,Georgia Power Co,709,Harllee Branch,GA,Putnam,3,ST,,544,488,488,RE,BIT,DFO,7,1968,4,2015
+7140,Georgia Power Co,709,Harllee Branch,GA,Putnam,4,ST,,544,507,507,RE,BIT,DFO,6,1969,4,2015
+7140,Georgia Power Co,710,Jack McDonough,GA,Cobb,1,ST,,299.2,251,251,RE,BIT,NG,8,1963,2,2012
+7140,Georgia Power Co,710,Jack McDonough,GA,Cobb,2,ST,,299.2,251,251,RE,BIT,NG,6,1964,9,2011
+7140,Georgia Power Co,727,Mitchell (GA),GA,Dougherty,1,ST,,27.5,20,20,RE,BIT,DFO,11,1948,7,2002
+7140,Georgia Power Co,727,Mitchell (GA),GA,Dougherty,2,ST,,27.5,20,20,RE,BIT,DFO,11,1948,12,2002
+7140,Georgia Power Co,727,Mitchell (GA),GA,Dougherty,3,ST,,163.2,155,155,RE,BIT,DFO,5,1964,8,2016
+7140,Georgia Power Co,728,Yates,GA,Coweta,1,ST,,122.5,97,97,RE,BIT,NG,9,1950,4,2015
+7140,Georgia Power Co,728,Yates,GA,Coweta,2,ST,,122.5,103,103,RE,BIT,NG,11,1950,4,2015
+7140,Georgia Power Co,728,Yates,GA,Coweta,3,ST,,122.5,111,111,RE,BIT,NG,8,1952,4,2015
+7140,Georgia Power Co,728,Yates,GA,Coweta,4,ST,,156.2,133,133,RE,BIT,NG,6,1957,4,2015
+7140,Georgia Power Co,728,Yates,GA,Coweta,5,ST,,156.2,135,135,RE,BIT,NG,5,1958,4,2015
+7140,Georgia Power Co,733,Kraft,GA,Chatham,2,ST,,54.4,52,52,RE,BIT,NG,5,1961,10,2015
+7140,Georgia Power Co,733,Kraft,GA,Chatham,3,ST,,103.5,101,101,RE,BIT,NG,5,1965,10,2015
+7140,Georgia Power Co,733,Kraft,GA,Chatham,ST1,ST,,50,48,48,RE,BIT,NG,7,1958,10,2015
+49756,Illinois Power Resources Generating LLC,856,E D Edwards,IL,Peoria,1,ST,,136,95,105,RE,SUB,,5,1960,12,2015
+49756,Illinois Power Resources Generating LLC,856,E D Edwards,IL,Peoria,2,ST,,280.5,245,255,RE,SUB,DFO,6,1968,12,2022
+49756,Illinois Power Resources Generating LLC,856,E D Edwards,IL,Peoria,3,ST,,363.8,315,330,RE,SUB,DFO,6,1972,12,2022
+520,Illinois Power Generating Co,861,Coffeen,IL,Montgomery,1,ST,,388.9,330,335,RE,RC,SUB,12,1965,11,2019
+520,Illinois Power Generating Co,861,Coffeen,IL,Montgomery,2,ST,,616.5,565,580,RE,RC,SUB,9,1972,11,2019
+12384,Midwest Generations EME LLC,867,Crawford,IL,Cook,7,ST,,239.3,213,216,RE,SUB,,5,1958,8,2012
+12384,Midwest Generations EME LLC,867,Crawford,IL,Cook,8,ST,,358.1,319,326,RE,SUB,,4,1961,8,2012
+12384,Midwest Generations EME LLC,883,Waukegan,IL,Lake,6,ST,,121,100,100,RE,SUB,NG,1,1952,12,2007
+12384,Midwest Generations EME LLC,883,Waukegan,IL,Lake,7,ST,,326.4,328,328,RE,SUB,NG,6,1958,6,2022
+12384,Midwest Generations EME LLC,883,Waukegan,IL,Lake,8,ST,,355.3,361,361,RE,SUB,NG,7,1962,6,2022
+12384,Midwest Generations EME LLC,884,Will County,IL,Will,1,ST,,187.5,151,156,RE,SUB,DFO,7,1955,12,2010
+12384,Midwest Generations EME LLC,884,Will County,IL,Will,2,ST,,183.7,148,154,RE,SUB,DFO,3,1955,12,2010
+12384,Midwest Generations EME LLC,884,Will County,IL,Will,3,ST,,299.2,251,262,RE,SUB,DFO,6,1957,4,2015
+12384,Midwest Generations EME LLC,884,Will County,IL,Will,4,ST,,598.4,510,520,RE,SUB,DFO,6,1963,6,2022
+12384,Midwest Generations EME LLC,886,Fisk Street,IL,Cook,19,ST,,374,326,326,RE,SUB,NG,7,1968,8,2012
+5748,Electric Energy Inc,887,Joppa Steam,IL,Massac,1,ST,,183.3,158,167,RE,RC,NG,8,1953,8,2022
+5748,Electric Energy Inc,887,Joppa Steam,IL,Massac,2,ST,,183.3,158,167,RE,RC,SUB,9,1953,8,2022
+5748,Electric Energy Inc,887,Joppa Steam,IL,Massac,3,ST,,183.3,158,167,RE,RC,SUB,5,1954,8,2022
+5748,Electric Energy Inc,887,Joppa Steam,IL,Massac,4,ST,,183.3,158,167,RE,RC,NG,8,1954,8,2022
+5748,Electric Energy Inc,887,Joppa Steam,IL,Massac,5,ST,,183.3,158,167,RE,RC,SUB,6,1955,8,2022
+5748,Electric Energy Inc,887,Joppa Steam,IL,Massac,6,ST,,183.3,158,167,RE,RC,SUB,8,1955,8,2022
+5517,Dynegy Midwest Generation Inc,889,Baldwin Energy Complex,IL,Randolph,3,ST,,634.5,621,630,RE,RC,DFO,4,1975,8,2020
+5517,Dynegy Midwest Generation Inc,891,Havana,IL,Mason,6,ST,,488,411,434,RE,RC,DFO,6,1978,11,2019
+5517,Dynegy Midwest Generation Inc,892,Hennepin Power Station,IL,Putnam,1,ST,,75,68,70,RE,RC,SUB,6,1953,11,2019
+5517,Dynegy Midwest Generation Inc,892,Hennepin Power Station,IL,Putnam,2,ST,,231.3,218,225,RE,RC,SUB,5,1959,11,2019
+5517,Dynegy Midwest Generation Inc,897,Vermilion,IL,Vermilion,2,ST,,108.8,99,99,RE,SUB,NG,11,1956,11,2011
+5517,Dynegy Midwest Generation Inc,897,Vermilion,IL,Vermilion,ST1,ST,,73.5,62,63,RE,SUB,NG,5,1955,11,2011
+5517,Dynegy Midwest Generation Inc,898,Wood River,IL,Madison,4,ST,,112.5,89,91,RE,RC,SUB,6,1954,5,2016
+5517,Dynegy Midwest Generation Inc,898,Wood River,IL,Madison,5,ST,,387.6,371,374,RE,RC,SUB,7,1964,5,2016
+17828,City of Springfield - (IL),963,Dallman,IL,Sangamon,1,ST,,90.2,64,64,RE,BIT,,6,1968,12,2020
+17828,City of Springfield - (IL),963,Dallman,IL,Sangamon,2,ST,,90.2,60,60,RE,BIT,,6,1972,12,2020
+17828,City of Springfield - (IL),964,Lakeside,IL,Sangamon,6,ST,,37.5,38,39,RE,BIT,OBS,4,1961,10,2009
+17828,City of Springfield - (IL),964,Lakeside,IL,Sangamon,7,ST,,37.5,38,39,RE,BIT,OBS,12,1965,10,2009
+17632,Southern Illinois Power Coop,976,Marion,IL,Williamson,4,ST,,173,170,170,RE,BIT,,10,1978,11,2020
+9324,Indiana Michigan Power Co,988,Tanners Creek,IN,Dearborn,1,ST,,152.5,145,145,RE,BIT,,3,1951,6,2015
+9324,Indiana Michigan Power Co,988,Tanners Creek,IN,Dearborn,2,ST,,152.5,145,145,RE,BIT,,11,1952,6,2015
+9324,Indiana Michigan Power Co,988,Tanners Creek,IN,Dearborn,3,ST,,215.4,200,205,RE,BIT,,12,1954,6,2015
+9324,Indiana Michigan Power Co,988,Tanners Creek,IN,Dearborn,4,ST,,579.7,500,500,RE,BIT,SUB,7,1964,6,2015
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),IN,Morgan,3,ST,,50,40,40,RE,BIT,,12,1951,4,2016
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),IN,Morgan,4,ST,,69,56,57,RE,BIT,,1,1953,4,2016
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),IN,Morgan,5,ST,,69,62,63,RE,BIT,,12,1953,4,2016
+9273,Indianapolis Power & Light Co,991,Eagle Valley (IN),IN,Morgan,6,ST,,113.6,99,100,RE,BIT,,10,1956,4,2016
+9273,Indianapolis Power & Light Co,994,AES Petersburg,IN,Pike,ST1,ST,,281.6,222.5,225.1,RE,BIT,,6,1967,5,2021
+13756,Northern Indiana Pub Serv Co,995,Bailly,IN,Porter,7,ST,,190.4,160,160,RE,BIT,NG,11,1962,6,2018
+13756,Northern Indiana Pub Serv Co,995,Bailly,IN,Porter,8,ST,,413.1,320,320,RE,BIT,NG,7,1968,6,2018
+13756,Northern Indiana Pub Serv Co,996,Dean H Mitchell,IN,Lake,11,ST,,127.5,110,110,RE,SUB,NG,5,1970,9,2010
+13756,Northern Indiana Pub Serv Co,996,Dean H Mitchell,IN,Lake,5,ST,,128,125,125,RE,SUB,NG,5,1959,9,2010
+13756,Northern Indiana Pub Serv Co,996,Dean H Mitchell,IN,Lake,6,ST,,128,125,125,RE,SUB,NG,9,1959,9,2010
+15470,"Duke Energy Indiana, LLC",1004,Edwardsport,IN,Knox,7,ST,,40.2,45,45,RE,BIT,,1,1949,3,2011
+15470,"Duke Energy Indiana, LLC",1004,Edwardsport,IN,Knox,8,ST,,69,75,75,RE,BIT,,12,1951,3,2011
+15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,Floyd,1,ST,,150,140,140,RE,BIT,,6,1959,2,2012
+15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,Floyd,2,ST,,150,140,140,RE,BIT,DFO,12,1958,6,2021
+15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,Floyd,3,ST,,150,140,140,RE,BIT,,4,1960,2,2012
+15470,"Duke Energy Indiana, LLC",1008,R Gallagher,IN,Floyd,4,ST,,150,140,140,RE,BIT,DFO,3,1961,6,2021
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,Vigo,2,ST,,112.5,85,85,RE,BIT,,8,1953,4,2016
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,Vigo,3,ST,,123.2,85,85,RE,BIT,,9,1954,4,2016
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,Vigo,4,ST,,112.5,85,85,RE,BIT,,1,1955,4,2016
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,Vigo,5,ST,,125,95,95,RE,BIT,,5,1956,4,2016
+15470,"Duke Energy Indiana, LLC",1010,Wabash River,IN,Vigo,6,ST,,387,318,318,RE,BIT,,8,1968,12,2016
+17633,Southern Indiana Gas & Elec Co,1012,F B Culley,IN,Warrick,1,ST,,46,42,42,RE,BIT,NG,6,1955,12,2006
+59774,Crawfordsville Energy LLC,1024,Crawfordsville Power Plant,IN,Montgomery,5,ST,,12.6,12.6,12.6,RE,BIT,,1,1965,11,2021
+14839,City of Peru - (IN),1037,Peru (IN),IN,Miami,2,ST,,22,20,20,RE,BIT,DFO,2,1959,12,2015
+14839,City of Peru - (IN),1037,Peru (IN),IN,Miami,3,ST,,12.5,12,12,RE,BIT,DFO,6,1949,12,2015
+9267,"Hoosier Energy R E C, Inc",1043,Frank E Ratts,IN,Pike,1,ST,,116.6,110,115,RE,BIT,DFO,4,1970,3,2015
+9267,"Hoosier Energy R E C, Inc",1043,Frank E Ratts,IN,Pike,2,ST,,116.6,100,105,RE,BIT,DFO,4,1970,3,2015
+9417,Interstate Power and Light Co,1046,Dubuque,IA,Dubuque,ST2,ST,,15,11.8,13.2,RE,SUB,NG,1,1929,11,2010
+9417,Interstate Power and Light Co,1047,Lansing,IA,Allamakee,1,ST,,15,14.1,14.1,RE,SUB,BIT,1,1948,2,2006
+9417,Interstate Power and Light Co,1047,Lansing,IA,Allamakee,2,ST,,11.5,11,11.2,RE,SUB,BIT,1,1949,11,2010
+9417,Interstate Power and Light Co,1047,Lansing,IA,Allamakee,3,ST,,37.5,29.4,29.5,RE,SUB,BIT,1,1957,6,2013
+9417,Interstate Power and Light Co,1058,Sixth Street,IA,Linn,1,ST,,10,9.4,9.4,RE,BIT,,5,1921,11,2010
+9417,Interstate Power and Light Co,1058,Sixth Street,IA,Linn,2,ST,,6,2.8,3.9,RE,SUB,BIT,11,1930,11,2010
+9417,Interstate Power and Light Co,1058,Sixth Street,IA,Linn,4,ST,,15,12.6,12.5,RE,SUB,NG,6,1942,11,2010
+9417,Interstate Power and Light Co,1058,Sixth Street,IA,Linn,6,ST,,10,8,3,RE,BIT,,1,1925,11,2010
+9417,Interstate Power and Light Co,1058,Sixth Street,IA,Linn,7,ST,,15,14.7,7.8,RE,SUB,NG,3,1945,11,2010
+9417,Interstate Power and Light Co,1058,Sixth Street,IA,Linn,8,ST,,28.7,29.2,26.8,RE,SUB,NG,10,1950,11,2010
+9417,Interstate Power and Light Co,1073,Prairie Creek,IA,Linn,2,ST,,23,18.4,20.7,RE,SUB,NG,5,1951,11,2010
+9417,Interstate Power and Light Co,1077,Sutherland,IA,Marshall,2,ST,,37.5,29.5,29.7,RE,SUB,NG,5,1955,11,2010
+12341,MidAmerican Energy Co,1081,Riverside,IA,Scott,3HS,ST,,5,4,4,RE,SUB,NG,5,1949,8,2013
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,IA,Pottawattamie,1,ST,,49,37.4,37.4,RE,SUB,NG,3,1954,3,2015
+12341,MidAmerican Energy Co,1082,Walter Scott Jr Energy Center,IA,Pottawattamie,2,ST,,81.6,80.8,80.8,RE,SUB,NG,10,1958,3,2015
+12341,MidAmerican Energy Co,1091,George Neal North,IA,Woodbury,1,ST,,147,134.3,134.3,RE,SUB,NG,5,1964,4,2016
+12341,MidAmerican Energy Co,1091,George Neal North,IA,Woodbury,2,ST,,349.2,283.7,283.7,RE,SUB,NG,5,1972,4,2016
+14645,City of Pella - (IA),1175,Pella,IA,Marion,5,ST,,11.5, , ,RE,SUB,NG,5,1964,6,2012
+14645,City of Pella - (IA),1175,Pella,IA,Marion,6,ST,,26.5, , ,RE,SUB,NG,7,1972,6,2012
+3258,Central Iowa Power Cooperative,1218,Fair Station,IA,Muscatine,1,ST,,25,23,24,RE,BIT,NG,1,1960,11,2013
+3258,Central Iowa Power Cooperative,1218,Fair Station,IA,Muscatine,2,ST,,37.5,41,42,RE,BIT,NG,4,1967,11,2013
+22500,"Evergy Kansas Central, Inc",1250,Lawrence Energy Center,KS,Douglas,2,ST,,38,26,26,RE,BIT,NG,12,1952,11,2000
+22500,"Evergy Kansas Central, Inc",1250,Lawrence Energy Center,KS,Douglas,3,ST,,49,48,48,RE,SUB,NG,1,1955,11,2015
+22500,"Evergy Kansas Central, Inc",1252,Tecumseh Energy Center,KS,Shawnee,7,ST,,82,66,66,RE,SUB,NG,8,1957,10,2018
+22500,"Evergy Kansas Central, Inc",1252,Tecumseh Energy Center,KS,Shawnee,8,ST,,150,130,130,RE,SUB,NG,4,1962,11,2015
+22053,Kentucky Power Co,1353,Big Sandy,KY,Lawrence,2,ST,,816.3,800,800,RE,BIT,,10,1969,5,2015
+10171,Kentucky Utilities Co,1355,E W Brown,KY,Mercer,1,ST,,113.6,106,107,RE,BIT,,5,1957,2,2019
+10171,Kentucky Utilities Co,1355,E W Brown,KY,Mercer,2,ST,,179.5,166,168,RE,BIT,,6,1963,2,2019
+10171,Kentucky Utilities Co,1357,Green River,KY,Muhlenberg,1,ST,,37.5,22,22,RE,BIT,DFO,1,1950,12,2003
+10171,Kentucky Utilities Co,1357,Green River,KY,Muhlenberg,2,ST,,37.5,22,22,RE,BIT,DFO,3,1950,12,2003
+10171,Kentucky Utilities Co,1357,Green River,KY,Muhlenberg,3,ST,,75,68,71,RE,BIT,,4,1954,10,2015
+10171,Kentucky Utilities Co,1357,Green River,KY,Muhlenberg,4,ST,,113.6,93,98,RE,BIT,,7,1959,10,2015
+10171,Kentucky Utilities Co,1360,Pineville,KY,Bell,3,ST,,37.5,32,33,RE,BIT,,7,1951,1,2002
+10171,Kentucky Utilities Co,1361,Tyrone,KY,Woodford,3,ST,,75,71,73,RE,BIT,,7,1953,2,2013
+11249,Louisville Gas & Electric Co,1363,Cane Run,KY,Jefferson,4,ST,,163.2,155,155,RE,BIT,NG,5,1962,6,2015
+11249,Louisville Gas & Electric Co,1363,Cane Run,KY,Jefferson,5,ST,,209.4,168,168,RE,BIT,NG,5,1966,6,2015
+11249,Louisville Gas & Electric Co,1363,Cane Run,KY,Jefferson,6,ST,,272,240,240,RE,BIT,NG,5,1969,4,2015
+18642,Tennessee Valley Authority,1378,Paradise,KY,Muhlenberg,1,ST,,704,628,659,RE,BIT,,11,1963,4,2017
+18642,Tennessee Valley Authority,1378,Paradise,KY,Muhlenberg,2,ST,,704,602,633,RE,BIT,,5,1963,4,2017
+18642,Tennessee Valley Authority,1378,Paradise,KY,Muhlenberg,3,ST,,1150.2,971,1017,RE,BIT,RC,2,1970,1,2020
+18642,Tennessee Valley Authority,1379,Shawnee,KY,McCracken,10,ST,,175,124,127,RE,BIT,,10,1956,6,2014
+1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,KY,Hancock,1,ST,,205,150,150,RE,BIT,NG,9,1969,9,2020
+1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,KY,Hancock,2,ST,,205,138,138,RE,BIT,NG,7,1970,9,2020
+1692,Big Rivers Electric Corp,1381,Kenneth C Coleman,KY,Hancock,3,ST,,192,155,155,RE,BIT,NG,12,1971,9,2020
+1692,Big Rivers Electric Corp,1382,HMP&L Station Two Henderson,KY,Webster,1,ST,,200,153,153,RE,BIT,DFO,6,1973,2,2019
+1692,Big Rivers Electric Corp,1382,HMP&L Station Two Henderson,KY,Webster,2,ST,,205,159,159,RE,BIT,DFO,4,1974,2,2019
+1692,Big Rivers Electric Corp,1383,Robert A Reid,KY,Webster,1,ST,,96,65,65,RE,BIT,,1,1966,9,2020
+5580,"East Kentucky Power Coop, Inc",1385,Dale,KY,Clark,1,ST,,27,23,23,RE,BIT,,12,1954,4,2015
+5580,"East Kentucky Power Coop, Inc",1385,Dale,KY,Clark,2,ST,,27,23,23,RE,BIT,,12,1954,4,2015
+5580,"East Kentucky Power Coop, Inc",1385,Dale,KY,Clark,3,ST,,81,74,75,RE,BIT,,10,1957,4,2016
+5580,"East Kentucky Power Coop, Inc",1385,Dale,KY,Clark,4,ST,,81,75,75,RE,BIT,,8,1960,4,2016
+60422,H.A. Wagner LLC,1554,Herbert A Wagner,MD,Anne Arundel,2,ST,,136,118,118,RE,RC,BIT,1,1959,6,2020
+12653,"Lanyard Power Holdings, LLC",1573,Morgantown Generating Plant,MD,Charles,ST1,ST,,626,596,596,RE,BIT,,6,1970,6,2022
+12653,"Lanyard Power Holdings, LLC",1573,Morgantown Generating Plant,MD,Charles,ST2,ST,,626,609,609,RE,BIT,,6,1971,6,2022
+59928,Salem Harbor Power Development LP,1626,Salem Harbor,MA,Essex,1,ST,,81.9,79.7,81.4,RE,BIT,RFO,1,1952,6,2014
+59928,Salem Harbor Power Development LP,1626,Salem Harbor,MA,Essex,2,ST,,82,78,78.8,RE,BIT,RFO,9,1952,6,2014
+59928,Salem Harbor Power Development LP,1626,Salem Harbor,MA,Essex,3,ST,,165.7,149.8,149.9,RE,BIT,RFO,8,1958,6,2014
+4254,Consumers Energy Co,1695,B C Cobb,MI,Muskegon,4,ST,,156.3,156,160,RE,SUB,BIT,9,1956,4,2016
+4254,Consumers Energy Co,1695,B C Cobb,MI,Muskegon,5,ST,,156.3,156,160,RE,SUB,BIT,3,1957,4,2016
+4254,Consumers Energy Co,1720,J C Weadock,MI,Bay,7,ST,,156.3,152,155,RE,SUB,BIT,5,1955,4,2016
+4254,Consumers Energy Co,1720,J C Weadock,MI,Bay,8,ST,,156.3,151,155,RE,SUB,BIT,1,1958,4,2016
+4254,Consumers Energy Co,1723,J R Whiting,MI,Monroe,1,ST,,106.3,102,102,RE,SUB,BIT,7,1952,4,2016
+4254,Consumers Energy Co,1723,J R Whiting,MI,Monroe,2,ST,,106.3,95,100,RE,SUB,BIT,12,1952,4,2016
+4254,Consumers Energy Co,1723,J R Whiting,MI,Monroe,3,ST,,132.8,122,124,RE,SUB,BIT,11,1953,4,2016
+5109,DTE Electric Company,1731,Harbor Beach,MI,Huron,1,ST,,121,95,103,RE,BIT,DFO,4,1968,11,2013
+5109,DTE Electric Company,1732,Marysville,MI,St Clair,6,ST,,50,33,33,RE,BIT,,10,1930,5,1995
+5109,DTE Electric Company,1732,Marysville,MI,St Clair,7,ST,,75,83,83,RE,BIT,,4,1943,12,2011
+5109,DTE Electric Company,1732,Marysville,MI,St Clair,8,ST,,75,83,83,RE,BIT,,2,1947,12,2011
+5109,DTE Electric Company,1740,River Rouge,MI,Wayne,2,ST,,292.5,251,260,RE,SUB,BIT,11,1957,6,2016
+5109,DTE Electric Company,1740,River Rouge,MI,Wayne,3,ST,,358.1,272,280,RE,SUB,OG,10,1958,5,2021
+5109,DTE Electric Company,1743,St Clair,MI,St Clair,1,ST,,168.7,151,158,RE,RC,NG,8,1953,3,2019
+5109,DTE Electric Company,1743,St Clair,MI,St Clair,2,ST,,156.2,154,162,RE,RC,SUB,11,1953,12,2022
+5109,DTE Electric Company,1743,St Clair,MI,St Clair,3,ST,,156.2,160,168,RE,RC,SUB,6,1954,12,2022
+5109,DTE Electric Company,1743,St Clair,MI,St Clair,4,ST,,168.7,151,158,RE,RC,NG,10,1954,11,2017
+5109,DTE Electric Company,1743,St Clair,MI,St Clair,6,ST,,352.7,311,320,RE,RC,SUB,4,1961,12,2022
+5109,DTE Electric Company,1743,St Clair,MI,St Clair,7,ST,,544.5,440,450,RE,RC,SUB,4,1969,12,2022
+5109,DTE Electric Company,1745,Trenton Channel,MI,Wayne,7,ST,,120,110,110,RE,SUB,BIT,6,1949,4,2016
+5109,DTE Electric Company,1745,Trenton Channel,MI,Wayne,8,ST,,120,100,100,RE,SUB,BIT,2,1950,4,2015
+5109,DTE Electric Company,1745,Trenton Channel,MI,Wayne,9,ST,,535.5,495,495,RE,SUB,BIT,1,1968,12,2022
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,1,ST,,25,25,25,RE,BIT,DFO,9,1955,12,2006
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,2,ST,,37.5,37,37,RE,BIT,DFO,7,1962,12,2006
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,3,ST,,54.4,58,58,RE,BIT,,1,1964,10,2009
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,4,ST,,57.8,58,58,RE,BIT,,12,1966,10,2009
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,5,ST,,90,55,55,RE,SUB,BIT,12,1974,3,2019
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,6,ST,,90,55,55,RE,SUB,BIT,4,1975,3,2019
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,7,ST,,90,83,83,RE,SUB,,6,1978,3,2019
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,8,ST,,90,83,83,RE,SUB,,11,1978,3,2019
+20847,Wisconsin Electric Power Co,1769,Presque Isle,MI,Marquette,9,ST,,90,83,83,RE,SUB,,8,1979,3,2019
+8723,City of Holland,1830,James De Young,MI,Ottawa,3,ST,,11.5,10.5,10.5,RE,BIT,SUB,4,1951,6,2016
+8723,City of Holland,1830,James De Young,MI,Ottawa,4,ST,,22,20.5,20.5,RE,BIT,SUB,5,1962,6,2017
+8723,City of Holland,1830,James De Young,MI,Ottawa,5,ST,,29.3,27,27,RE,BIT,SUB,6,1969,6,2017
+56155,Lansing Board of Water and Light,1831,Eckert Station,MI,Ingham,1,ST,,44,32.9,35.8,RE,SUB,,6,1954,9,2015
+56155,Lansing Board of Water and Light,1831,Eckert Station,MI,Ingham,2,ST,,44,31.6,33.7,RE,SUB,,6,1958,3,2014
+56155,Lansing Board of Water and Light,1831,Eckert Station,MI,Ingham,3,ST,,47,30.6,32.3,RE,SUB,,6,1960,12,2015
+56155,Lansing Board of Water and Light,1831,Eckert Station,MI,Ingham,4,ST,,80,64,66.8,RE,SUB,,12,1964,5,2021
+56155,Lansing Board of Water and Light,1831,Eckert Station,MI,Ingham,5,ST,,80,63.1,66.3,RE,SUB,,6,1968,12,2020
+56155,Lansing Board of Water and Light,1831,Eckert Station,MI,Ingham,6,ST,,80,62.8,64.1,RE,SUB,,8,1970,12,2020
+56155,Lansing Board of Water and Light,1832,Erickson Station,MI,Eaton,1,ST,,154.7,154.5,156.1,RE,SUB,,2,1973,11,2022
+11701,City of Marquette - (MI),1843,Shiras,MI,Marquette,1,ST,,12.5,11.6,11.6,RE,BIT,,1,1967,4,2019
+11701,City of Marquette - (MI),1843,Shiras,MI,Marquette,2,ST,,21,19.5,19.5,RE,BIT,WDS,1,1972,4,2019
+11701,City of Marquette - (MI),1843,Shiras,MI,Marquette,3,ST,,44,41,41,RE,SUB,BIT,4,1983,4,2019
+12647,"ALLETE, Inc.",1893,Clay Boswell,MN,Itasca,1,ST,,75,67.3,67.3,RE,SUB,,7,1958,12,2018
+12647,"ALLETE, Inc.",1893,Clay Boswell,MN,Itasca,2,ST,,75,67.4,67.4,RE,SUB,,1,1960,12,2018
+13781,Northern States Power Co - Minnesota,1904,Black Dog,MN,Dakota,1,ST,,81,71.7,50,RE,SUB,NG,8,1952,6,2002
+13781,Northern States Power Co - Minnesota,1904,Black Dog,MN,Dakota,3,ST,,113.6,79,79,RE,SUB,NG,7,1955,4,2015
+13781,Northern States Power Co - Minnesota,1904,Black Dog,MN,Dakota,4,ST,,163.2,153,153,RE,SUB,NG,9,1960,4,2015
+13781,Northern States Power Co - Minnesota,1912,High Bridge,MN,Ramsey,5,ST,,113.6,99,99,RE,SUB,NG,8,1956,12,2007
+13781,Northern States Power Co - Minnesota,1912,High Bridge,MN,Ramsey,6,ST,,163.2,172.1,172.1,RE,SUB,NG,4,1959,12,2007
+13781,Northern States Power Co - Minnesota,1927,Riverside (MN),MN,Hennepin,8,ST,,238.8,227,227,RE,SUB,PC,4,1964,4,2009
+14232,Otter Tail Power Co,1943,Hoot Lake,MN,Otter Tail,1,ST,,7.5,7.7,7.7,RE,SUB,,8,1948,12,2005
+14232,Otter Tail Power Co,1943,Hoot Lake,MN,Otter Tail,2,ST,,54.4,58,58,RE,SUB,,10,1959,6,2021
+14232,Otter Tail Power Co,1943,Hoot Lake,MN,Otter Tail,3,ST,,75,80,80,RE,SUB,,5,1964,6,2021
+16181,Rochester Public Utilities,2008,Silver Lake,MN,Olmsted,1,ST,,8,6.6,6.6,RE,BIT,NG,8,1948,12,2015
+16181,Rochester Public Utilities,2008,Silver Lake,MN,Olmsted,2,ST,,12,7,7,RE,BIT,NG,12,1953,12,2015
+16181,Rochester Public Utilities,2008,Silver Lake,MN,Olmsted,3,ST,,25,20,20,RE,BIT,NG,11,1962,12,2015
+16181,Rochester Public Utilities,2008,Silver Lake,MN,Olmsted,4,ST,,54,46.4,46.4,RE,BIT,NG,12,1969,12,2015
+19883,City of Virginia - (MN),2018,Virginia,MN,St Louis,1A,ST,,4,4,4,RE,SUB,,8,1992,8,2006
+20737,Willmar Municipal Utilities,2022,Willmar,MN,Kandiyohi,ST1,ST,,4,4,4,RE,SUB,NG,10,1949,12,2006
+5860,Empire District Electric Co,2076,Asbury,MO,Jasper,1,ST,,212.8,198,198,RE,SUB,BIT,6,1970,3,2020
+5860,Empire District Electric Co,2076,Asbury,MO,Jasper,2,ST,,18.7,14.5,14.5,RE,SUB,BIT,4,1986,12,2013
+10000,Evergy Metro,2080,Montrose,MO,Henry,1,ST,,188,170,170,RE,SUB,,7,1958,4,2016
+10000,Evergy Metro,2080,Montrose,MO,Henry,2,ST,,188,164,164,RE,SUB,,4,1960,12,2018
+10000,Evergy Metro,2080,Montrose,MO,Henry,3,ST,,188,170,170,RE,SUB,,5,1964,12,2018
+56211,Evergy Missouri West,2094,Sibley,MO,Jackson,1,ST,,55,42.2,42.2,RE,SUB,,6,1960,6,2017
+56211,Evergy Missouri West,2094,Sibley,MO,Jackson,2,ST,,50,42.1,42.1,RE,SUB,,5,1962,12,2018
+56211,Evergy Missouri West,2094,Sibley,MO,Jackson,3,ST,,419,364.1,364.1,RE,SUB,TDF,6,1969,12,2018
+19436,Union Electric Co - (MO),2104,Meramec,MO,St Louis,3,ST,,289,220,240,RE,SUB,,1,1959,12,2022
+19436,Union Electric Co - (MO),2104,Meramec,MO,St Louis,4,ST,,359,290,290,RE,SUB,NG,7,1961,12,2022
+3486,Chillicothe Municipal Utils,2122,Chillicothe,MO,Livingston,4A,ST,,2.5,2.5,2.5,RE,BIT,,6,1938,3,2004
+3486,Chillicothe Municipal Utils,2122,Chillicothe,MO,Livingston,5,ST,,5,5,5,RE,BIT,,8,1948,3,2004
+3486,Chillicothe Municipal Utils,2122,Chillicothe,MO,Livingston,6,ST,,6,6,6,RE,BIT,,9,1958,3,2004
+4045,City of Columbia - (MO),2123,Columbia (MO),MO,Boone,5,ST,,16.5,16.5,16.5,RE,BIT,,1,1957,4,2016
+4045,City of Columbia - (MO),2123,Columbia (MO),MO,Boone,7,ST,,22,22,22,RE,BIT,,1,1965,12,2019
+11732,City of Marshall - (MO),2144,Marshall (MO),MO,Saline,4,ST,,6,5.8,5.9,RE,BIT,NG,7,1956,7,2016
+11732,City of Marshall - (MO),2144,Marshall (MO),MO,Saline,5,ST,,16.5,16,16.2,RE,BIT,NG,7,1967,12,2016
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,MO,Greene,1,ST,,22,21,21,RE,SUB,NG,8,1957,12,2017
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,MO,Greene,2,ST,,22,21,21,RE,SUB,NG,6,1957,12,2017
+17833,City Utilities of Springfield - (MO),2161,James River Power Station,MO,Greene,3,ST,,44,41,41,RE,SUB,NG,2,1960,12,2017
+9231,City of Independence - (MO),2171,Missouri City,MO,Clay,1,ST,,23,19,19,RE,BIT,DFO,6,1954,1,2016
+9231,City of Independence - (MO),2171,Missouri City,MO,Clay,2,ST,,23,19,19,RE,BIT,DFO,6,1954,1,2016
+15298,Talen Montana LLC,2187,J E Corette Plant,MT,Yellowstone,1,ST,,172.8,130,130,RE,SUB,NG,6,1968,3,2015
+13407,Nevada Power Co,2324,Reid Gardner,NV,Clark,1,ST,,114,100,100,RE,BIT,,6,1965,12,2014
+13407,Nevada Power Co,2324,Reid Gardner,NV,Clark,2,ST,,114,100,100,RE,BIT,,6,1968,12,2014
+13407,Nevada Power Co,2324,Reid Gardner,NV,Clark,3,ST,,114,98,98,RE,BIT,,5,1976,12,2014
+13407,Nevada Power Co,2324,Reid Gardner,NV,Clark,4,ST,,294.8,257,255,RE,BIT,NG,7,1983,3,2017
+17609,Southern California Edison Co,2341,Mohave,NV,Clark,1,ST,,818.1,790,790,RE,SUB,NG,4,1971,7,2012
+17609,Southern California Edison Co,2341,Mohave,NV,Clark,2,ST,,818.1,790,790,RE,SUB,NG,10,1971,7,2012
+15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,NJ,Mercer,1,ST,,326.4,316,316,RE,BIT,NG,12,1960,6,2017
+15147,PSEG Fossil LLC,2408,PSEG Mercer Generating Station,NJ,Mercer,2,ST,,326.4,316,316,RE,BIT,NG,6,1961,6,2017
+803,Arizona Public Service Co,2442,Four Corners,NM,San Juan,1,ST,,190,170,170,RE,BIT,SUB,5,1963,12,2013
+803,Arizona Public Service Co,2442,Four Corners,NM,San Juan,2,ST,,190,170,170,RE,BIT,SUB,6,1963,12,2013
+803,Arizona Public Service Co,2442,Four Corners,NM,San Juan,3,ST,,253.4,220,220,RE,BIT,SUB,8,1964,12,2013
+15473,Public Service Co of NM,2451,San Juan,NM,San Juan,1,ST,,369,340,340,RE,RC,BIT,12,1976,6,2022
+15473,Public Service Co of NM,2451,San Juan,NM,San Juan,2,ST,,369,340,340,RE,BIT,DFO,11,1973,12,2017
+15473,Public Service Co of NM,2451,San Juan,NM,San Juan,3,ST,,555,497,497,RE,BIT,DFO,12,1979,12,2017
+15473,Public Service Co of NM,2451,San Juan,NM,San Juan,4,ST,,555,507,507,RE,RC,BIT,4,1982,9,2022
+25,Greenidge Generation Holdings LLC,2527,Greenidge Generation LLC,NY,Yates,3,ST,,50,52,48.9,RE,BIT,NG,4,1950,12,2009
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,Chautauqua,1,ST,,96,75,75,RE,SUB,,11,1950,4,2022
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,Chautauqua,2,ST,,96,75,75,RE,SUB,,12,1950,1,2019
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,Chautauqua,3,ST,,217.6,185,185,RE,SUB,BIT,9,1959,4,2022
+13579,Dunkirk Power LLC,2554,Dunkirk Generating Plant,NY,Chautauqua,ST4,ST,,217.6,185,185,RE,SUB,BIT,8,1960,4,2022
+16183,Rochester Gas & Electric Corp,2642,Rochester 7,NY,Monroe,1,ST,,46,46,47,RE,BIT,,11,1948,2,2008
+16183,Rochester Gas & Electric Corp,2642,Rochester 7,NY,Monroe,2,ST,,62.5,64,65,RE,BIT,,11,1950,3,2008
+16183,Rochester Gas & Electric Corp,2642,Rochester 7,NY,Monroe,3,ST,,62.5,64,65,RE,BIT,,9,1953,4,2008
+16183,Rochester Gas & Electric Corp,2642,Rochester 7,NY,Monroe,4,ST,,81.6,78,80,RE,BIT,,2,1957,3,2008
+3046,Duke Energy Progress - (NC),2706,Asheville,NC,Buncombe,1,ST,,206.6,189,192,RE,BIT,,5,1964,1,2020
+3046,Duke Energy Progress - (NC),2706,Asheville,NC,Buncombe,2,ST,,207,189,192,RE,BIT,,5,1971,1,2020
+3046,Duke Energy Progress - (NC),2708,Cape Fear,NC,Chatham,5,ST,,140.6,144,148,RE,BIT,,12,1956,10,2012
+3046,Duke Energy Progress - (NC),2708,Cape Fear,NC,Chatham,6,ST,,187.9,172,175,RE,BIT,,7,1958,10,2012
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,NC,Wayne,1,ST,,75,74,80,RE,BIT,,6,1952,10,2012
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,NC,Wayne,2,ST,,75,68,80,RE,BIT,,5,1951,10,2012
+3046,Duke Energy Progress - (NC),2709,HF Lee Plant,NC,Wayne,3,ST,,252.4,240,252,RE,BIT,,8,1962,10,2012
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,NC,New Hanover,1,ST,,112.5,97,98,RE,BIT,,8,1954,11,2013
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,NC,New Hanover,2,ST,,112.5,90,95,RE,BIT,,5,1955,11,2013
+3046,Duke Energy Progress - (NC),2713,L V Sutton Steam,NC,New Hanover,3,ST,,446.6,366,389,RE,BIT,,6,1972,11,2013
+3046,Duke Energy Progress - (NC),2716,W H Weatherspoon,NC,Robeson,1,ST,,46,48,49,RE,BIT,,9,1949,9,2011
+3046,Duke Energy Progress - (NC),2716,W H Weatherspoon,NC,Robeson,2,ST,,46,48,49,RE,BIT,,6,1950,9,2011
+3046,Duke Energy Progress - (NC),2716,W H Weatherspoon,NC,Robeson,3,ST,,73.5,74,79,RE,BIT,,8,1952,9,2011
+5416,"Duke Energy Carolinas, LLC",2718,G G Allen,NC,Gaston,2,ST,,163.2,162,167,RE,BIT,,11,1957,12,2021
+5416,"Duke Energy Carolinas, LLC",2718,G G Allen,NC,Gaston,3,ST,,272,258,270,RE,BIT,,10,1959,3,2021
+5416,"Duke Energy Carolinas, LLC",2718,G G Allen,NC,Gaston,4,ST,,278,257,267,RE,BIT,,10,1960,12,2021
+5416,"Duke Energy Carolinas, LLC",2720,Buck,NC,Rowan,3,ST,,80,75,76,RE,BIT,,7,1941,5,2011
+5416,"Duke Energy Carolinas, LLC",2720,Buck,NC,Rowan,4,ST,,40,38,39,RE,BIT,,9,1942,5,2011
+5416,"Duke Energy Carolinas, LLC",2720,Buck,NC,Rowan,5,ST,,125,128,131,RE,BIT,DFO,9,1953,5,2013
+5416,"Duke Energy Carolinas, LLC",2720,Buck,NC,Rowan,6,ST,,125,128,131,RE,BIT,DFO,12,1953,5,2013
+5416,"Duke Energy Carolinas, LLC",2721,James E. Rogers Energy Complex,NC,Cleveland,1,ST,,40,38,39,RE,BIT,,7,1940,10,2011
+5416,"Duke Energy Carolinas, LLC",2721,James E. Rogers Energy Complex,NC,Cleveland,2,ST,,40,38,39,RE,BIT,,8,1940,10,2011
+5416,"Duke Energy Carolinas, LLC",2721,James E. Rogers Energy Complex,NC,Cleveland,3,ST,,65,61,62,RE,BIT,,5,1948,10,2011
+5416,"Duke Energy Carolinas, LLC",2721,James E. Rogers Energy Complex,NC,Cleveland,4,ST,,65,61,62,RE,BIT,,10,1948,10,2011
+5416,"Duke Energy Carolinas, LLC",2721,James E. Rogers Energy Complex,NC,Cleveland,7,ST,,800,800,800,CN,BIT,, , , , 
+5416,"Duke Energy Carolinas, LLC",2723,Dan River,NC,Rockingham,1,ST,,70,67,69,RE,BIT,,12,1949,4,2012
+5416,"Duke Energy Carolinas, LLC",2723,Dan River,NC,Rockingham,2,ST,,70,67,69,RE,BIT,,3,1950,4,2012
+5416,"Duke Energy Carolinas, LLC",2723,Dan River,NC,Rockingham,3,ST,,150,142,145,RE,BIT,,8,1955,4,2012
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,Gaston,4,ST,,100,94,96,RE,BIT,,10,1952,5,2013
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,Gaston,5,ST,,100,94,96,RE,BIT,,11,1952,5,2013
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,Gaston,6,ST,,133,133,136,RE,BIT,,8,1954,5,2013
+5416,"Duke Energy Carolinas, LLC",2732,Riverbend,NC,Gaston,7,ST,,133,133,136,RE,BIT,,11,1954,5,2013
+12199,Montana-Dakota Utilities Co,2790,R M Heskett,ND,Morton,1,ST,,40,29.5,29.5,RE,LIG,TDF,11,1954,2,2022
+12199,Montana-Dakota Utilities Co,2790,R M Heskett,ND,Morton,2,ST,,75,74.8,74.8,RE,LIG,TDF,11,1963,1,2022
+7570,Great River Energy,2824,Stanton,ND,Mercer,1,ST,,190.2,187.2,187.2,RE,SUB,,4,1967,3,2017
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,Clermont,1,ST,,115,94,94,RE,BIT,,6,1952,5,2012
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,Clermont,2,ST,,112.5,94,94,RE,BIT,,10,1953,10,2013
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,Clermont,3,ST,,125,128,128,RE,BIT,,11,1954,10,2013
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,Clermont,4,ST,,163.2,150,150,RE,BIT,,7,1958,2,2014
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,Clermont,5,ST,,244.8,238,238,RE,BIT,,12,1962,10,2014
+3542,Duke Energy Ohio Inc,2830,Walter C Beckjord,OH,Clermont,6,ST,,460.8,414,420,RE,BIT,,7,1969,10,2014
+59919,Luminant Miami Fort,2832,Miami Fort,OH,Hamilton,5,ST,,100,80,80,RE,BIT,,12,1949,1,2008
+59919,Luminant Miami Fort,2832,Miami Fort,OH,Hamilton,6,ST,,163.2,163,163,RE,BIT,,11,1960,6,2015
+14165,"GenOn Power Midwest, LP",2836,Avon Lake,OH,Lorain,7,ST,,86,70,70,RE,BIT,DFO,1,1949,5,2016
+14165,"GenOn Power Midwest, LP",2836,Avon Lake,OH,Lorain,9,ST,,680,627,627,RE,BIT,SUB,1,1970,3,2022
+61919,Kimura Power LLC,2848,O H Hutchings,OH,Montgomery,1,ST,,69,58,59,RE,BIT,NG,7,1948,6,2015
+61919,Kimura Power LLC,2848,O H Hutchings,OH,Montgomery,2,ST,,69,55,56,RE,BIT,NG,3,1949,6,2015
+61919,Kimura Power LLC,2848,O H Hutchings,OH,Montgomery,3,ST,,69,63,64,RE,BIT,NG,12,1950,6,2015
+61919,Kimura Power LLC,2848,O H Hutchings,OH,Montgomery,4,ST,,69,63,64,RE,BIT,NG,2,1951,6,2013
+61919,Kimura Power LLC,2848,O H Hutchings,OH,Montgomery,5,ST,,69,63,64,RE,BIT,NG,11,1952,6,2015
+61919,Kimura Power LLC,2848,O H Hutchings,OH,Montgomery,6,ST,,69,63,64,RE,BIT,NG,8,1953,6,2015
+63030,"Niles Power, LLC",2861,Niles Power Plant,OH,Trumbull,1,ST,,132.8,108,108,RE,BIT,,1,1954,10,2012
+63030,"Niles Power, LLC",2861,Niles Power Plant,OH,Trumbull,2,ST,,132.8,108,108,RE,BIT,,1,1954,6,2012
+64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,Jefferson,1,ST,,190.4,180,180,RE,BIT,SUB,8,1959,5,2020
+64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,Jefferson,2,ST,,190.4,180,180,RE,BIT,SUB,7,1960,5,2020
+64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,Jefferson,3,ST,,190.4,180,180,RE,BIT,SUB,7,1961,5,2020
+64226,Energy Harbor Generation LLC,2866,W H Sammis,OH,Jefferson,4,ST,,190.4,180,180,RE,BIT,SUB,11,1962,5,2020
+62031,"Walleye Power, LLC ",2878,FirstEnergy Bay Shore,OH,Lucas,2,ST,,140.6,138,138,RE,SUB,BIT,2,1959,9,2012
+62031,"Walleye Power, LLC ",2878,FirstEnergy Bay Shore,OH,Lucas,3,ST,,140.6,142,142,RE,SUB,BIT,5,1963,9,2012
+62031,"Walleye Power, LLC ",2878,FirstEnergy Bay Shore,OH,Lucas,4,ST,,217.6,215,215,RE,SUB,BIT,6,1968,9,2012
+3762,City of Cleveland - (OH),2908,Lake Road (OH),OH,Cuyahoga,10,ST,,25,25,25,RE,BIT,,1,1953,1,1994
+3762,City of Cleveland - (OH),2908,Lake Road (OH),OH,Cuyahoga,11,ST,,85,85,85,RE,BIT,,1,1967,1,1994
+3762,City of Cleveland - (OH),2908,Lake Road (OH),OH,Cuyahoga,8,ST,,25,25,25,RE,BIT,,1,1941,1,1994
+3762,City of Cleveland - (OH),2908,Lake Road (OH),OH,Cuyahoga,9,ST,,25,25,25,RE,BIT,,1,1953,1,1994
+5336,City of Dover - (OH),2914,Dover,OH,Tuscarawas,2,ST,,4,4,4,RE,BIT,,1,1944,6,2007
+15095,City of Piqua - (OH),2937,Piqua Power Plant,OH,Miami,10,ST,,0.8,0.8,0.8,RE,BIT,DFO,12,1987,12,2007
+15095,City of Piqua - (OH),2937,Piqua Power Plant,OH,Miami,3,ST,,4,4,4,RE,BIT,DFO,1,1940,12,2007
+15095,City of Piqua - (OH),2937,Piqua Power Plant,OH,Miami,4,ST,,7.5,7.5,7.5,RE,BIT,DFO,1,1947,12,2007
+15095,City of Piqua - (OH),2937,Piqua Power Plant,OH,Miami,6,ST,,12.5,12.5,12.5,RE,BIT,DFO,1,1951,12,2007
+15095,City of Piqua - (OH),2937,Piqua Power Plant,OH,Miami,7,ST,,20,20,20,RE,BIT,DFO,1,1961,12,2007
+17891,City of St Marys - (OH),2942,St Marys,OH,Auglaize,5,ST,,6,5.8,5.8,RE,BIT,,1,1957,12,2007
+17891,City of St Marys - (OH),2942,St Marys,OH,Auglaize,6,ST,,10,9,9,RE,BIT,NG,4,1967,12,2007
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,OH,Richland,1,ST,,12.5,12,12,RE,BIT,NG,6,1968,11,2013
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,OH,Richland,2,ST,,12.5,12,12,RE,BIT,NG,5,1973,11,2013
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,OH,Richland,3,ST,,5,5,5,RE,BIT,NG,4,1948,4,2012
+17043,City of Shelby - (OH),2943,Shelby Municipal Light Plant,OH,Richland,4,ST,,7,7,7,RE,BIT,NG,6,1954,11,2013
+15474,Public Service Co of Oklahoma,2963,Northeastern,OK,Rogers,4,ST,,473,460,460,RE,SUB,NG,9,1980,4,2016
+14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,Washington,1,ST,,100,93,93,RE,BIT,,4,1952,3,2014
+14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,Washington,2,ST,,100,93,93,RE,BIT,,1,1953,3,2014
+14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,Washington,3,ST,,125,103,103,RE,BIT,,9,1954,3,2014
+14165,"GenOn Power Midwest, LP",3098,Elrama Power Plant,PA,Washington,4,ST,,185,171,171,RE,BIT,,10,1960,3,2014
+14165,"GenOn Power Midwest, LP",3099,F R Phillips,PA,Allegheny,1,ST,,69,58,58,RE,BIT,,1,1943,12,2002
+14165,"GenOn Power Midwest, LP",3099,F R Phillips,PA,Allegheny,2,ST,,81,59,59,RE,BIT,,11,1949,12,2002
+14165,"GenOn Power Midwest, LP",3099,F R Phillips,PA,Allegheny,3,ST,,81,59,59,RE,BIT,,9,1950,12,2002
+14165,"GenOn Power Midwest, LP",3099,F R Phillips,PA,Allegheny,4,ST,,179,134,134,RE,BIT,,2,1956,12,2002
+63039,"Portland Power, LLC",3113,Portland (PA),PA,Northampton,2,ST,,255,226,226,RE,BIT,DFO,9,1962,6,2013
+63041,"Titus Power, LLC",3115,Titus,PA,Berks,1,ST,,75,72,72,RE,BIT,DFO,3,1951,9,2013
+63041,"Titus Power, LLC",3115,Titus,PA,Berks,2,ST,,75,72,72,RE,BIT,DFO,6,1951,9,2013
+63041,"Titus Power, LLC",3115,Titus,PA,Berks,3,ST,,75,72,72,RE,BIT,DFO,4,1953,9,2013
+61781,Seward Generating LLC,3130,Seward (PA),PA,Indiana,4,ST,,62,60,62,RE,BIT,,6,1950,11,2003
+61781,Seward Generating LLC,3130,Seward (PA),PA,Indiana,5,ST,,156.2,136,137,RE,BIT,,4,1957,11,2003
+63045,"Warren Generation, LLC",3132,Warren,PA,Warren,1,ST,,42,41,41,RE,BIT,,9,1948,9,2002
+63045,"Warren Generation, LLC",3132,Warren,PA,Warren,2,ST,,42,41,41,RE,BIT,,3,1949,9,2002
+63031,"New Castle Power, LLC",3138,New Castle Plant,PA,Lawrence,1,ST,,35,40,40,RE,BIT,,11,1939,12,1993
+63031,"New Castle Power, LLC",3138,New Castle Plant,PA,Lawrence,2,ST,,35,40,40,RE,BIT,,11,1947,12,1993
+15276,TalenEnergy Martins Creek LLC,3148,TalenEnergy Martins Creek,PA,Northampton,1,ST,,156.2,140,150,RE,BIT,,9,1954,9,2007
+15276,TalenEnergy Martins Creek LLC,3148,TalenEnergy Martins Creek,PA,Northampton,2,ST,,156.2,140,150,RE,BIT,,6,1956,9,2007
+15534,TalenEnergy Montour LLC,3149,TalenEnergy Montour,PA,Montour,11,ST,,17.2,11,11.8,RE,RC,DFO,4,1973,2,2019
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,Snyder,1,ST,,89.1,80,80,RE,BIT,WC,11,1949,7,2014
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,Snyder,2,ST,,89.1,80,80,RE,BIT,WC,9,1949,7,2014
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,Snyder,3,ST,,103.5,94,94,RE,BIT,WC,4,1951,7,2014
+22001,Sunbury Generation LP,3152,Sunbury Generation LP,PA,Snyder,4,ST,,156.2,128,134,RE,BIT,,8,1953,7,2014
+6035,"Constellation Power, Inc",3159,Cromby Generating Station,PA,Chester,1,ST,,187.5,144,147,RE,BIT,RFO,7,1954,5,2011
+6035,"Constellation Power, Inc",3161,Eddystone Generating Station,PA,Delaware,1,ST,,353.6,279,288,RE,BIT,RFO,2,1960,5,2011
+6035,"Constellation Power, Inc",3161,Eddystone Generating Station,PA,Delaware,2,ST,,353.6,309,311,RE,BIT,RFO,10,1960,5,2012
+3046,Duke Energy Progress - (NC),3251,H B Robinson,SC,Darlington,1,ST,,206.6,177,179,RE,BIT,,5,1960,10,2012
+5416,"Duke Energy Carolinas, LLC",3264,W S Lee,SC,Anderson,1,ST,,90,100,100,RE,BIT,DFO,3,1951,11,2014
+5416,"Duke Energy Carolinas, LLC",3264,W S Lee,SC,Anderson,2,ST,,90,100,102,RE,BIT,WDS,7,1951,11,2014
+17539,"Dominion Energy South Carolina, Inc",3280,Canadys Steam,SC,Colleton,1,ST,,136,105,90,RE,BIT,,4,1962,12,2012
+17539,"Dominion Energy South Carolina, Inc",3280,Canadys Steam,SC,Colleton,2,ST,,136,115,115,RE,BIT,,5,1964,11,2013
+17539,"Dominion Energy South Carolina, Inc",3280,Canadys Steam,SC,Colleton,3,ST,,217.6,180,180,RE,BIT,,6,1967,11,2013
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,SC,Horry,1,ST,,81.6,83,85,RE,BIT,,6,1966,12,2012
+17543,South Carolina Public Service Authority,3317,Dolphus M Grainger,SC,Horry,2,ST,,81.6,83,85,RE,BIT,,6,1966,12,2012
+17543,South Carolina Public Service Authority,3319,Jefferies,SC,Berkeley,3,ST,,172.8,152,152,RE,BIT,,1,1970,12,2012
+17543,South Carolina Public Service Authority,3319,Jefferies,SC,Berkeley,4,ST,,172.8,150,155,RE,BIT,,1,1970,12,2012
+19545,"Black Hills Power, Inc.",3325,Ben French,SD,Pennington,ST1,ST,,25,21.6,21.6,RE,SUB,DFO,4,1960,3,2014
+18642,Tennessee Valley Authority,3393,Allen,TN,Shelby,1,ST,,330,247,250,RE,SUB,DFO,5,1959,3,2018
+18642,Tennessee Valley Authority,3393,Allen,TN,Shelby,2,ST,,330,247,250,RE,SUB,DFO,5,1959,3,2018
+18642,Tennessee Valley Authority,3393,Allen,TN,Shelby,3,ST,,330,247,250,RE,SUB,DFO,10,1959,3,2018
+18642,Tennessee Valley Authority,3405,John Sevier,TN,Hawkins,1,ST,,200,176,178,RE,BIT,,7,1955,12,2012
+18642,Tennessee Valley Authority,3405,John Sevier,TN,Hawkins,2,ST,,200,176,178,RE,BIT,,9,1955,12,2012
+18642,Tennessee Valley Authority,3405,John Sevier,TN,Hawkins,3,ST,,200,176,178,RE,BIT,,2,1956,6,2014
+18642,Tennessee Valley Authority,3405,John Sevier,TN,Hawkins,4,ST,,200,176,178,RE,BIT,,10,1957,6,2014
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,1,ST,,125,107,113,RE,SUB,DFO,10,1951,12,2017
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,10,ST,,172.8,141,144,RE,SUB,BIT,8,1959,12,2015
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,2,ST,,125,107,113,RE,SUB,DFO,11,1951,12,2017
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,3,ST,,125,107,113,RE,SUB,DFO,2,1952,12,2017
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,4,ST,,125,107,113,RE,SUB,DFO,4,1952,12,2017
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,5,ST,,147,107,113,RE,SUB,BIT,11,1952,12,2015
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,6,ST,,147,107,113,RE,SUB,BIT,2,1953,12,2015
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,7,ST,,172.8,141,144,RE,SUB,BIT,11,1958,12,2015
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,8,ST,,172.8,141,144,RE,SUB,BIT,1,1959,12,2015
+18642,Tennessee Valley Authority,3406,Johnsonville,TN,Humphreys,9,ST,,172.8,141,144,RE,SUB,BIT,6,1959,12,2015
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,TN,Rhea,ST1,ST,,60,56,56,RE,BIT,,3,1942,12,2011
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,TN,Rhea,ST2,ST,,60,56,56,RE,BIT,,2,1942,12,2011
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,TN,Rhea,ST3,ST,,60,56,56,RE,BIT,,2,1943,12,2011
+18642,Tennessee Valley Authority,3419,Watts Bar Fossil,TN,Rhea,ST4,ST,,60,56,56,RE,BIT,,4,1945,12,2011
+55983,Luminant Generation Company LLC,3492,Morgan Creek,TX,Mitchell,7,ST,,800,800,800,CN,SUB,, , , , 
+55983,Luminant Generation Company LLC,3497,Big Brown,TX,Freestone,1,ST,,593.4,606,606,RE,SUB,LIG,12,1971,2,2018
+55983,Luminant Generation Company LLC,3497,Big Brown,TX,Freestone,2,ST,,593.4,602,602,RE,SUB,LIG,12,1972,2,2018
+55983,Luminant Generation Company LLC,3497,Big Brown,TX,Freestone,3,ST,,800,800,800,CN,SUB,, , , , 
+55983,Luminant Generation Company LLC,3502,Lake Creek,TX,McLennan,ST3,ST,,800,800,800,CN,SUB,, , , , 
+14354,PacifiCorp,3644,Carbon,UT,Carbon,1,ST,,75,67,67,RE,BIT,DFO,11,1954,4,2015
+14354,PacifiCorp,3644,Carbon,UT,Carbon,2,ST,,113.6,105,105,RE,BIT,DFO,9,1957,4,2015
+733,Appalachian Power Co,3775,Clinch River,VA,Russell,3,ST,,237.5,230,235,RE,BIT,,12,1961,12,2015
+733,Appalachian Power Co,3776,Glen Lyn,VA,Giles,5,ST,,100,90,95,RE,BIT,,6,1944,6,2015
+733,Appalachian Power Co,3776,Glen Lyn,VA,Giles,6,ST,,237.5,235,240,RE,BIT,,5,1957,6,2015
+19876,Virginia Electric & Power Co,3797,Chesterfield,VA,Chesterfield,3,ST,,112.5,97.5,101.5,RE,BIT,DFO,12,1952,3,2019
+19876,Virginia Electric & Power Co,3797,Chesterfield,VA,Chesterfield,4,ST,,187.5,162.5,167.5,RE,BIT,DFO,6,1960,3,2019
+19876,Virginia Electric & Power Co,3803,Chesapeake,VA,Chesapeake,3,ST,,185.2,156,162,RE,BIT,,6,1959,1,2015
+19876,Virginia Electric & Power Co,3803,Chesapeake,VA,Chesapeake,ST1,ST,,112.5,111,111,RE,BIT,,6,1953,1,2015
+19876,Virginia Electric & Power Co,3803,Chesapeake,VA,Chesapeake,ST2,ST,,112.5,111,111,RE,BIT,,12,1954,1,2015
+19876,Virginia Electric & Power Co,3803,Chesapeake,VA,Chesapeake,ST4,ST,,239.3,217,221,RE,BIT,,5,1962,1,2015
+19876,Virginia Electric & Power Co,3809,Yorktown,VA,York,1,ST,,187.5,159,162,RE,BIT,,7,1957,3,2019
+19876,Virginia Electric & Power Co,3809,Yorktown,VA,York,2,ST,,187.5,164,165,RE,BIT,,1,1959,3,2019
+19099,TransAlta Centralia Gen LLC,3845,Transalta Centralia Generation,WA,Lewis,1,ST,,729.9,670,670,RE,RC,WC,12,1972,12,2020
+733,Appalachian Power Co,3936,Kanawha River,WV,Kanawha,1,ST,,219.6,200,200,RE,BIT,,7,1953,12,2017
+733,Appalachian Power Co,3936,Kanawha River,WV,Kanawha,2,ST,,219.6,200,200,RE,BIT,,12,1953,12,2017
+733,Appalachian Power Co,3938,Philip Sporn,WV,Mason,1,ST,,152.5,145,150,RE,BIT,,1,1950,11,2015
+733,Appalachian Power Co,3938,Philip Sporn,WV,Mason,2,ST,,152.5,145,150,RE,BIT,,7,1950,11,2015
+733,Appalachian Power Co,3938,Philip Sporn,WV,Mason,3,ST,,152.5,145,150,RE,BIT,,8,1951,11,2015
+733,Appalachian Power Co,3938,Philip Sporn,WV,Mason,4,ST,,152.5,145,150,RE,BIT,,2,1952,11,2015
+733,Appalachian Power Co,3938,Philip Sporn,WV,Mason,5,ST,,495.5,440,450,RE,BIT,,12,1960,2,2012
+12796,Monongahela Power Co,3942,FirstEnergy Albright,WV,Preston,1,ST,,69,73,76,RE,BIT,WDS,12,1952,9,2012
+12796,Monongahela Power Co,3942,FirstEnergy Albright,WV,Preston,2,ST,,69,73,76,RE,BIT,WDS,10,1952,9,2012
+12796,Monongahela Power Co,3942,FirstEnergy Albright,WV,Preston,3,ST,,140.2,137,140,RE,BIT,WDS,10,1954,9,2012
+12796,Monongahela Power Co,3945,FirstEnergy Rivesville,WV,Marion,5,ST,,35,37,39,RE,BIT,,6,1943,9,2012
+12796,Monongahela Power Co,3945,FirstEnergy Rivesville,WV,Marion,6,ST,,74.7,88,91,RE,BIT,,9,1951,9,2012
+12796,Monongahela Power Co,3946,FirstEnergy Willow Island,WV,Pleasants,1,ST,,50,54,55,RE,BIT,SUB,2,1949,9,2012
+12796,Monongahela Power Co,3946,FirstEnergy Willow Island,WV,Pleasants,2,ST,,163.2,181,186,RE,BIT,TDF,10,1960,9,2012
+11479,Madison Gas & Electric Co,3992,Blount Street,WI,Dane,1,ST,,10,6.8,7.2,RE,BIT,NG,0,1925,1,2006
+11479,Madison Gas & Electric Co,3992,Blount Street,WI,Dane,3,ST,,34.5,30.1,30.1,RE,BIT,NG,9,1953,12,2011
+11479,Madison Gas & Electric Co,3992,Blount Street,WI,Dane,4,ST,,20,12,12,RE,BIT,NG,10,1938,12,2011
+11479,Madison Gas & Electric Co,3992,Blount Street,WI,Dane,5,ST,,23,22.9,22.9,RE,BIT,NG,11,1948,12,2011
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,WI,Ozaukee,1,ST,,80,65,65,RE,BIT,NG,10,1935,9,2004
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,WI,Ozaukee,2,ST,,80,80,80,RE,BIT,NG,10,1943,9,2004
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,WI,Ozaukee,3,ST,,80,80,80,RE,BIT,NG,10,1948,9,2004
+20847,Wisconsin Electric Power Co,4040,Port Washington Generating Station,WI,Ozaukee,4,ST,,80,80,80,RE,BIT,NG,8,1949,1,2003
+20856,Wisconsin Power & Light Co,4050,Edgewater,WI,Sheboygan,3,ST,,69,47.2,48.7,RE,SUB,TDF,7,1951,12,2015
+20856,Wisconsin Power & Light Co,4050,Edgewater,WI,Sheboygan,4,ST,,351,294.4,295.6,RE,SUB,TDF,12,1969,9,2018
+20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,WI,Grant,1,ST,,113.6,103.9,106,RE,SUB,TDF,12,1959,12,2015
+20856,Wisconsin Power & Light Co,4054,Nelson Dewey Generating Station,WI,Grant,2,ST,,113.6,105.2,107.4,RE,SUB,TDF,12,1962,12,2015
+20860,Wisconsin Public Service Corp,4072,Pulliam,WI,Brown,3,ST,,30,25.8,25.8,RE,SUB,NG,1,1943,12,2007
+20860,Wisconsin Public Service Corp,4072,Pulliam,WI,Brown,4,ST,,30,30.1,30.1,RE,SUB,NG,8,1947,12,2007
+20860,Wisconsin Public Service Corp,4072,Pulliam,WI,Brown,5,ST,,50,47.7,48.2,RE,SUB,NG,9,1949,6,2015
+20860,Wisconsin Public Service Corp,4072,Pulliam,WI,Brown,6,ST,,69,69.8,71,RE,SUB,NG,11,1951,6,2015
+20860,Wisconsin Public Service Corp,4072,Pulliam,WI,Brown,7,ST,,81.6,76.1,77.8,RE,SUB,NG,11,1958,10,2018
+20860,Wisconsin Public Service Corp,4072,Pulliam,WI,Brown,8,ST,,149.6,133.8,136.4,RE,SUB,NG,12,1964,10,2018
+20860,Wisconsin Public Service Corp,4078,Weston,WI,Marathon,1,ST,,60,50.7,51.3,RE,SUB,NG,12,1954,6,2015
+11571,Manitowoc Public Utilities,4125,Manitowoc,WI,Manitowoc,2,ST,,5,5,5,RE,BIT,SUB,0,1935,12,2003
+11571,Manitowoc Public Utilities,4125,Manitowoc,WI,Manitowoc,3,ST,,10,10,10,RE,BIT,SUB,0,1941,12,2003
+4716,Dairyland Power Coop,4140,Alma,WI,Buffalo,1,ST,,15,18.9,20.6,RE,BIT,SUB,9,1947,3,2012
+4716,Dairyland Power Coop,4140,Alma,WI,Buffalo,2,ST,,15,18,19.7,RE,BIT,SUB,10,1947,3,2012
+4716,Dairyland Power Coop,4140,Alma,WI,Buffalo,3,ST,,15,18.9,20.6,RE,BIT,SUB,7,1951,3,2012
+4716,Dairyland Power Coop,4140,Alma,WI,Buffalo,4,ST,,54.4,40.4,44.6,RE,BIT,SUB,4,1957,9,2014
+4716,Dairyland Power Coop,4140,Alma,WI,Buffalo,5,ST,,81.6,62.1,69,RE,BIT,SUB,1,1960,10,2014
+4716,Dairyland Power Coop,4143,Genoa,WI,Vernon,ST3,ST,,345.6,307.5,318,RE,SUB,DFO,6,1969,6,2021
+19545,"Black Hills Power, Inc.",4150,Neil Simpson,WY,Campbell,5,ST,,21.7,14.6,18.6,RE,SUB,DFO,5,1959,3,2014
+19545,"Black Hills Power, Inc.",4151,Osage (WY),WY,Weston,1,ST,,11.5,10.1,10.1,RE,SUB,,1,1948,3,2014
+19545,"Black Hills Power, Inc.",4151,Osage (WY),WY,Weston,2,ST,,11.5,10.1,10.1,RE,SUB,,1,1950,3,2014
+19545,"Black Hills Power, Inc.",4151,Osage (WY),WY,Weston,3,ST,,11.5,10.1,10.1,RE,SUB,,1,1952,3,2014
+16572,Salt River Project,4941,Navajo,AZ,Coconino,NAV1,ST,,803.1,750,750,RE,BIT,,5,1974,11,2019
+16572,Salt River Project,4941,Navajo,AZ,Coconino,NAV2,ST,,803.1,750,750,RE,BIT,,4,1975,11,2019
+16572,Salt River Project,4941,Navajo,AZ,Coconino,NAV3,ST,,803.1,750,750,RE,BIT,,4,1976,9,2019
+49756,Illinois Power Resources Generating LLC,6016,Duck Creek,IL,Fulton,1,ST,,441,410,425,RE,RC,SUB,6,1976,12,2019
+520,Illinois Power Generating Co,6017,Newton,IL,Jasper,2,ST,,617.4,600,615,RE,RC,DFO,12,1982,9,2016
+59920,Dynegy W H Zimmer,6019,W H Zimmer,OH,Clermont,ST1,ST,,1425.6,1305,1333,RE,RC,BIT,3,1991,5,2022
+7140,Georgia Power Co,6052,Wansley,GA,Heard,1,ST,,952,872,872,RE,BIT,DFO,12,1976,9,2022
+7140,Georgia Power Co,6052,Wansley,GA,Heard,2,ST,,952,872,872,RE,BIT,DFO,4,1978,9,2022
+11252,Louisiana Generating LLC,6055,Big Cajun 2,LA,Pointe Coupee,BC24,ST,,730,705,705,CN,SUB,, , , , 
+17568,Cooperative Energy,6061,R D Morrow,MS,Lamar,1,ST,,200,180,200,RE,BIT,,4,1978,11,2018
+17568,Cooperative Energy,6061,R D Morrow,MS,Lamar,2,ST,,200,180,200,RE,BIT,,12,1978,11,2018
+9996,City of Kansas City - (KS),6064,Nearman Creek,KS,Wyandotte,2,ST,,261,235,235,CN,SUB,, , , , 
+15298,Talen Montana LLC,6076,Colstrip,MT,Rosebud,1,ST,,358,307,307,RE,SUB,,11,1975,1,2020
+15298,Talen Montana LLC,6076,Colstrip,MT,Rosebud,2,ST,,358,307,307,RE,SUB,,8,1976,1,2020
+13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,IN,Jasper,14,ST,,540,431,431,RE,SUB,NG,12,1976,10,2021
+13756,Northern Indiana Pub Serv Co,6085,R M Schahfer,IN,Jasper,15,ST,,556.4,472,472,RE,SUB,NG,10,1979,10,2021
+12199,Montana-Dakota Utilities Co,6089,Lewis & Clark,MT,Richland,1,ST,,50,53.1,44,RE,LIG,NG,10,1958,3,2021
+14063,Oklahoma Gas & Electric Co,6095,Sooner,OK,Noble,RR1,ST,,950,885,885,CN,SUB,, , , , 
+15248,Portland General Electric Co,6106,Boardman,OR,Morrow,1,ST,,642.2,585,585,RE,SUB,,8,1980,10,2020
+7140,Georgia Power Co,6124,McIntosh,GA,Effingham,1,ST,,177.6,142.5,142.5,RE,SUB,DFO,2,1979,7,2019
+17698,Southwestern Electric Power Co,6139,Welsh,TX,Titus,2,ST,,558,528,528,RE,SUB,,4,1980,4,2016
+55983,Luminant Generation Company LLC,6146,Martin Lake,TX,Rusk,4,ST,,800,800,800,CN,SUB,, , , , 
+55983,Luminant Generation Company LLC,6147,Monticello,TX,Titus,1,ST,,593.4,535,580,RE,SUB,LIG,12,1974,1,2018
+55983,Luminant Generation Company LLC,6147,Monticello,TX,Titus,2,ST,,593.4,535,580,RE,SUB,LIG,12,1975,1,2018
+55983,Luminant Generation Company LLC,6147,Monticello,TX,Titus,3,ST,,793.2,795,795,RE,SUB,LIG,6,1995,1,2018
+55983,Luminant Generation Company LLC,6147,Monticello,TX,Titus,4,ST,,800,800,800,CN,SUB,, , , , 
+20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,WI,Kenosha,1,ST,,616.6,594,594,RE,RC,SUB,6,1980,4,2018
+20847,Wisconsin Electric Power Co,6170,Pleasant Prairie,WI,Kenosha,2,ST,,616.6,594,594,RE,RC,SUB,7,1985,4,2018
+55983,Luminant Generation Company LLC,6180,Oak Grove (TX),TX,Robertson,1,ST,,800.8,750, ,CN,LIG,NG, , , , 
+55983,Luminant Generation Company LLC,6180,Oak Grove (TX),TX,Robertson,2,ST,,800.8,750, ,CN,LIG,NG, , , , 
+40307,"Prairie Power, Inc",6238,Pearl Station,IL,Pike,1,ST,,22,22.2,22.2,RE,BIT,,1,1967,6,2012
+7140,Georgia Power Co,6257,Scherer,GA,Monroe,4,ST,,891,860,860,RE,SUB,DFO,2,1989,1,2022
+55983,Luminant Generation Company LLC,6648,Sandow No 4,TX,Milam,4,ST,,590.6,600,600,RE,LIG,DFO,5,1981,1,2018
+20447,"Western Farmers Elec Coop, Inc",6772,Hugo,OK,Choctaw,2,ST,,750,750,750,CN,SUB,, , , , 
+56598,"Major Oak Power, LLC",7030,Major Oak Power,TX,Robertson,3,ST,,600,600,600,CN,LIG,, , , , 
+40577,"American Mun Power-Ohio, Inc",7286,Richard Gorsuch,OH,Washington,1,ST,,50,50,50,RE,BIT,,9,1988,11,2010
+40577,"American Mun Power-Ohio, Inc",7286,Richard Gorsuch,OH,Washington,2,ST,,50,50,50,RE,BIT,,9,1988,11,2010
+40577,"American Mun Power-Ohio, Inc",7286,Richard Gorsuch,OH,Washington,3,ST,,50,50,50,RE,BIT,,9,1988,11,2010
+40577,"American Mun Power-Ohio, Inc",7286,Richard Gorsuch,OH,Washington,4,ST,,50,50,50,RE,BIT,,9,1988,11,2010
+19876,Virginia Electric & Power Co,7537,North Branch (WV),WV,Grant,1,ST,,80,74,77,RE,WC,,5,1992,12,2012
+20847,Wisconsin Electric Power Co,7549,Milwaukee County,WI,Milwaukee,1,ST,,11,7,7,RE,SUB,,3,1955,4,2016
+40230,Deseret Generation & Tran Coop,7790,Bonanza,UT,Uintah,2,ST,,110,86,86,CN,WC,DFO, , , , 
+24211,Tucson Electric Power Co,8223,Springerville,AZ,Apache,5,ST,,400,375,376,CN,SUB,, , , , 
+14165,"GenOn Power Midwest, LP",8226,Cheswick Power Plant,PA,Allegheny,1,ST,,637,565,565,RE,BIT,NG,6,1970,3,2022
+5624,"RED-Rochester, LLC",10025,"RED-Rochester, LLC",NY,Monroe,11TG,ST,,6.3,6.3,6.3,RE,BIT,,11,1937,3,2007
+5624,"RED-Rochester, LLC",10025,"RED-Rochester, LLC",NY,Monroe,12TG,ST,,6.3,6.3,6.3,RE,BIT,,7,1941,12,2000
+5624,"RED-Rochester, LLC",10025,"RED-Rochester, LLC",NY,Monroe,13TG,ST,,10.4,10.4,10.4,RE,BIT,,5,1948,3,2007
+5624,"RED-Rochester, LLC",10025,"RED-Rochester, LLC",NY,Monroe,14TG,ST,,10.4,10.4,10.4,RE,BIT,,7,1948,3,2007
+5624,"RED-Rochester, LLC",10025,"RED-Rochester, LLC",NY,Monroe,15TG,ST,,17.5,17.5,17.5,RE,BIT,RFO,10,1956,3,2007
+63046,Logan Generating Company LP,10043,Logan Generating Plant,NJ,Gloucester,GEN1,ST,,242.3,219,219,RE,BIT,DFO,9,1994,5,2022
+12647,"ALLETE, Inc.",10075,Taconite Harbor Energy Center,MN,Cook,GEN3,ST,,84,83.6,83.6,RE,SUB,BIT,1,1967,5,2015
+9686,"WestRock, Fernandina Beach",10202,Fernandina Beach Mill,FL,Nassau,GEN4,ST,,9.3,7,7,RE,BIT,RFO,3,1963,12,2003
+55849,Domtar Paper Co LLC Kingsport Mill,10252,Domtar Kingsport Mill,TN,Sullivan,NO.4,ST,,4,4,4,RE,BIT,WDS,1,1937,4,1999
+13657,Norfork Southern Corp,10302,Juniata Locomotive Shop,PA,Blair,GEN1,ST,,2,0.4,0.5,RE,BIT,,8,1955,4,2015
+13657,Norfork Southern Corp,10302,Juniata Locomotive Shop,PA,Blair,GEN2,ST,,2,0.3,0.7,RE,BIT,,8,1955,4,2015
+1182,BASF Corporation,10320,Enka,NC,Buncombe,GE10,ST,,4,3.7,3.8,RE,BIT,,1,1948,6,2001
+1182,BASF Corporation,10320,Enka,NC,Buncombe,GE11,ST,,4,3.7,3.8,RE,BIT,,1,1957,6,2001
+1182,BASF Corporation,10320,Enka,NC,Buncombe,GE12,ST,,5,4.7,4.7,RE,BIT,,1,1959,6,2001
+1182,BASF Corporation,10320,Enka,NC,Buncombe,GEN8,ST,,0.3,0.3,0.3,RE,BIT,,1,1984,6,2001
+1182,BASF Corporation,10320,Enka,NC,Buncombe,GEN9,ST,,3,2.8,2.8,RE,BIT,,1,1937,6,2001
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,WI,Brown,GEN1,ST,,1.5,1.4,1.4,RE,BIT,PC,1,1929,2,2002
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,WI,Brown,GEN10,ST,,28.2,26.4,26.5,RE,BIT,PC,7,2005,10,2014
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,WI,Brown,GEN2,ST,,3,2.8,2.8,RE,BIT,PC,1,1933,2,2002
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,WI,Brown,GEN3,ST,,3,2.8,2.8,RE,BIT,PC,1,1940,2,2002
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,WI,Brown,GEN4,ST,,2.5,2.3,2.4,RE,BIT,PC,1,1947,2,2002
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,WI,Brown,GEN5,ST,,10,7.5,7.5,RE,BIT,PC,1,1954,10,2014
+55919,Georgia-Pacific Consumer Oper. Green Bay LLC,10360,Consumer Operations LLC,WI,Brown,GEN8,ST,,25,20,20,RE,BIT,PC,1,1977,12,2004
+56150,ArcelorMittal USA Inc,10474,4 AC Station,IN,Lake,14TG,ST,,67.5,63.3,63.5,RE,BIT,OG,8,1963,4,1999
+56150,ArcelorMittal USA Inc,10474,4 AC Station,IN,Lake,15TG,ST,,67.5,63.3,63.5,RE,BIT,OG,10,1963,4,1999
+55965,Verso Corporation,10476,Whiting Mill,WI,Portage,GEN4,ST,,4.1,4.1,4.1,RE,SUB,WDS,7,1951,10,2014
+14932,US Operating Services Company,10566,Chambers Cogeneration LP,NJ,Salem,GEN1,ST,,285,244,242,RE,BIT,DFO,3,1994,6,2022
+177,AES Hawaii LLC,10673,AES Hawaii,HI,Honolulu,GEN1,ST,,203,180,180,RE,SUB,WO,5,1992,9,2022
+50006,Invista,10793,Seaford Delaware Plant,DE,Sussex,GEN2,ST,,10,9,9,RE,BIT,DFO,1,1939,5,2009
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,IA,Clinton,GEN1,ST,,7.5,7.5,7.5,RE,BIT,NG,1,1954,10,2008
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,IA,Clinton,GEN2,ST,,3.5,3.5,3.5,RE,BIT,NG,1,1940,10,2008
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,IA,Clinton,GEN3,ST,,9.4,9.4,9.4,RE,BIT,NG,1,1965,10,2008
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,IA,Clinton,GEN4,ST,,4,4,4,RE,BIT,NG,1,1974,10,2008
+772,Archer Daniels Midland Co,10860,Archer Daniels Midland Clinton,IA,Clinton,GEN5,ST,,7,7,7,RE,BIT,NG,4,1991,10,2008
+64580,BioUrja Renewables LLC,10866,Archer Daniels Midland Peoria,IL,Peoria,GEN1,ST,,1.5,1.5,1.5,RE,BIT,NG,1,1934,8,2013
+64580,BioUrja Renewables LLC,10866,Archer Daniels Midland Peoria,IL,Peoria,GEN2,ST,,1.5,1.5,1.5,RE,BIT,NG,1,1934,12,2011
+64580,BioUrja Renewables LLC,10866,Archer Daniels Midland Peoria,IL,Peoria,GEN3,ST,,4,4,4,RE,BIT,NG,1,1954,12,2011
+64580,BioUrja Renewables LLC,10866,Archer Daniels Midland Peoria,IL,Peoria,GEN4,ST,,4,4,4,RE,BIT,NG,1,1985,12,2011
+64580,BioUrja Renewables LLC,10866,Archer Daniels Midland Peoria,IL,Peoria,GEN5,ST,,4,4,4,RE,BIT,NG,1,1985,12,2012
+22040,Washington State University,50083,Washington State University,WA,Whitman,GEN1,ST,,2,2,2,RE,BIT,NG,10,1963,5,2005
+55903,Domtar Paper Company LLC,50189,Domtar Paper Co LLC Plymouth NC,NC,Martin,TG4,ST,,7.5,7.5,7.5,RE,BIT,BLQ,3,1949,1,2002
+55903,Domtar Paper Company LLC,50189,Domtar Paper Co LLC Plymouth NC,NC,Martin,TG6,ST,,7.5,7.5,7.5,RE,BIT,BLQ,1,1956,5,2006
+14465,Philip Morris USA - Park 500,50275,Park 500 Philip Morris USA,VA,Chesterfield,TG2,ST,,6.1, , ,RE,BIT,,4,1984,9,2013
+56389,Doyon Utilities - Ft. Wainwright,50308,Utility Plants Section,AK,Fairbanks North Star,GEN2,ST,F401,2.5, , ,RE,SUB,,1,1945,12,2009
+22199,U S Air Force-Eielson AFB,50392,Eielson AFB Central Heat & Power Plant,AK,Fairbanks North Star,TG1,ST,,2.5,0.5,2.2,RE,SUB,,10,1952,5,2022
+22199,U S Air Force-Eielson AFB,50392,Eielson AFB Central Heat & Power Plant,AK,Fairbanks North Star,TG2,ST,,2.5,0.5,2.2,RE,SUB,,10,1952,5,2022
+30002,International Paper Co,50398,International Paper Savanna Mill,GA,Chatham,GEN3,ST,,7.5,7,7.1,RE,BIT,,6,1940,12,2001
+30002,International Paper Co,50398,International Paper Savanna Mill,GA,Chatham,GEN6,ST,,10,9.4,9.4,RE,BIT,,6,1952,12,2001
+30002,International Paper Co,50398,International Paper Savanna Mill,GA,Chatham,GEN7,ST,,20,18.7,18.8,RE,BIT,,6,1957,12,2001
+2138,Brainerd Public Utilities,50636,Brainerd Public Utilities,MN,Crow Wing,VPLS,ST,,0.6,0.6,0.6,RE,BIT,,1,1959,12,2014
+20541,Wheelabrator Environmental Systems,50879,Wheelabrator Frackville Energy,PA,Schuylkill,GEN1,ST,,48,42.5,42.5,RE,WC,,9,1988,2,2020
+20508,WestRock Corp,50900,Covington Facility,VA,Alleghany,GEN1,ST,,10.5,10.5,10.5,RE,BIT,NG,1,1939,10,2013
+20508,WestRock Corp,50900,Covington Facility,VA,Alleghany,GEN2,ST,,10.5,10.5,10.5,RE,BIT,NG,1,1946,12,2013
+6452,Florida Power & Light Co,50976,Indiantown Cogeneration LP,FL,Martin,GEN1,ST,,395.4,330,330,RE,BIT,NG,12,1995,12,2020
+19876,Virginia Electric & Power Co,52007,Mecklenburg Power Station,VA,Mecklenburg,GEN1,ST,,69.9,69,69,RE,BIT,,11,1992,3,2019
+19876,Virginia Electric & Power Co,52007,Mecklenburg Power Station,VA,Mecklenburg,GEN2,ST,,69.9,69,69,RE,BIT,,11,1992,3,2019
+19724,Vanderbilt University,52048,Vanderbilt University Power Plant,TN,Davidson,GEN1,ST,,6.5,6.5,6.5,RE,BIT,,11,1988,11,2014
+19724,Vanderbilt University,52048,Vanderbilt University Power Plant,TN,Davidson,GEN2,ST,,4.5,4.5,4.5,RE,BIT,,6,1989,3,2014
+55983,Luminant Generation Company LLC,52071,Sandow No 5,TX,Milam,5,ST,,661.5,600,600,RE,LIG,DFO,1,2010,1,2018
+55983,Luminant Generation Company LLC,52071,Sandow No 5,TX,Milam,GEN1,ST,,121,121,124,RE,LIG,DFO,12,1953,12,2006
+55983,Luminant Generation Company LLC,52071,Sandow No 5,TX,Milam,GEN2,ST,,121,121,124,RE,LIG,DFO,2,1954,12,2006
+55983,Luminant Generation Company LLC,52071,Sandow No 5,TX,Milam,GEN3,ST,,121,121,124,RE,LIG,DFO,7,1954,12,2006
+61854,Veolia Energy Operating Service,54081,Spruance Operating Services LLC,VA,Richmond City,GEN1,ST,,57.4,52.5,52.5,RE,BIT,,5,1992,1,2021
+61854,Veolia Energy Operating Service,54081,Spruance Operating Services LLC,VA,Richmond City,GEN2,ST,,57.4,52.5,52.5,RE,BIT,,5,1992,1,2021
+9434,Iowa State University,54201,Iowa State University,IA,Story,1,ST,,3,3,3,RE,BIT,NG,6,1949,6,2004
+2053,Bowater Newport Coosa Pines Op,54216,U S Alliance Coosa Pines,AL,Talladega,AOW1,ST,,5,4.7,4.7,RE,BIT,,1,1942,11,2008
+2053,Bowater Newport Coosa Pines Op,54216,U S Alliance Coosa Pines,AL,Talladega,AOW2,ST,,5,4.7,4.7,RE,BIT,,1,1942,11,2008
+2053,Bowater Newport Coosa Pines Op,54216,U S Alliance Coosa Pines,AL,Talladega,AOW3,ST,,5,4.7,4.7,RE,BIT,,1,1942,1,2003
+2053,Bowater Newport Coosa Pines Op,54216,U S Alliance Coosa Pines,AL,Talladega,AOW4,ST,,5,4.7,4.7,RE,BIT,,1,1942,11,2008
+2053,Bowater Newport Coosa Pines Op,54216,U S Alliance Coosa Pines,AL,Talladega,AOW5,ST,,5,4.7,4.7,RE,BIT,,1,1942,11,2008
+19541,University of North Carolina,54276,Univ of NC Chapel Hill Cogen Facility,NC,Orange,TG4,ST,,24,20,20,CN,BIT,NG, , , , 
+12986,Morton Salt Inc,54335,Morton Salt Rittman,OH,Wayne,GEN1,ST,,1.5,1.5,1.5,RE,BIT,NG,10,1978,1,2015
+9765,John Deere Dubuque Works,54414,John Deere Dubuque Works,IA,Dubuque,GEN2,ST,,3.5,3.5,3.5,RE,BIT,NG,6,1949,11,2010
+9765,John Deere Dubuque Works,54414,John Deere Dubuque Works,IA,Dubuque,GEN3,ST,,3,1.5,1.5,RE,BIT,NG,11,1989,10,2009
+9765,John Deere Dubuque Works,54414,John Deere Dubuque Works,IA,Dubuque,GEN4,ST,,7.5,7.5,7.5,RE,BIT,NG,2,1964,11,2010
+55965,Verso Corporation,54857,Niagara Mill,WI,Marinette,1ST,ST,,2.5,2.5,2.5,RE,BIT,WDS,1,1940,6,2008
+55965,Verso Corporation,54857,Niagara Mill,WI,Marinette,2ST,ST,,9.3,9.3,9.3,RE,BIT,WDS,1,1964,6,2008
+2769,Cargill Inc,54965,Cargill Salt,MI,St Clair,DCT,ST,,1.2,1.2,1.2,RE,BIT,,1,1935,1,2002
+2769,Cargill Inc,54965,Cargill Salt,MI,St Clair,DCTG,ST,,0.7,0.7,0.7,RE,BIT,,1,1935,6,2001
+772,Archer Daniels Midland Co,55638,Walhalla,ND,Pembina,GEN1,ST,,2,2,2,RE,SUB,,12,2000,4,2012
+61903,Stanton Clean Energy LLC,55821,Curtis H Stanton Energy Center,FL,Orange,BCT,CT,,197,197,197,CN,SGC,NG, , , , 
+61903,Stanton Clean Energy LLC,55821,Curtis H Stanton Energy Center,FL,Orange,BST,CA,,132,132,132,CN,SGC,NG, , , , 
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,UT,Salt Lake,1,ST,,50,50,50,RE,BIT,NG,1,1943,10,2016
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,UT,Salt Lake,2,ST,,25,25,25,RE,BIT,NG,1,1943,10,2016
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,UT,Salt Lake,3,ST,,25,25,25,RE,BIT,NG,1,1946,10,2016
+49805,Kennecott Utah Copper,56163,Kennecott Power Plant,UT,Salt Lake,4,ST,,82,75,75,RE,BIT,NG,1,1958,12,2019
+13407,Nevada Power Co,56642,Ely Energy Center,NV,White Pine,1,ST,,750,750,750,CN,SUB,, , , , 
+13407,Nevada Power Co,56642,Ely Energy Center,NV,White Pine,2,ST,,750,750,750,CN,SUB,, , , , 
+57440,"SABIC IP Mt. Vernon, LLC",58063,SABIC Innovative Plastics Mt. Vernon,IN,Posey,1,ST,,5.5,3,3,RE,BIT,NG,6,1996,1,2017
+58159,Penn State University,58194,West Campus Steam Plant,PA,Centre,WC 2,ST,,2.5,0.5,1,RE,BIT,NG,1,1938,3,2015
+58159,Penn State University,58194,West Campus Steam Plant,PA,Centre,WC 3,ST,,3.5,0.6,2.8,RE,BIT,NG,1,1949,3,2015
+56069,"SunCoke Energy, Inc.",60373,SunCoke Energy South Shore Facility,KY,Greenup,SSST6,ST,,90,60,60,CN,BIT,NG, , , , 
+12653,"Lanyard Power Holdings, LLC",65284,Dickerson,MD,Montgomery,2,ST,,196,173,173,RE,BIT,DFO,4,1960,8,2020
+12653,"Lanyard Power Holdings, LLC",65284,Dickerson,MD,Montgomery,3,ST,,196,173,173,RE,BIT,DFO,3,1962,8,2020
+12653,"Lanyard Power Holdings, LLC",65284,Dickerson,MD,Montgomery,ST1,ST,,196,173,173,RE,BIT,DFO,6,1959,8,2020
+12653,"Lanyard Power Holdings, LLC",65285,Chalk Point Steam,MD,Prince Georges,ST1,ST,,364,333.1,338.2,RE,BIT,NG,8,1964,6,2021
+12653,"Lanyard Power Holdings, LLC",65285,Chalk Point Steam,MD,Prince Georges,ST2,ST,,364,336.9,344.5,RE,BIT,NG,3,1965,6,2021
