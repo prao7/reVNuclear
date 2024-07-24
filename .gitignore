@@ -1,0 +1,2 @@
+# Ignore the large data files
+input_data/land_exclusion_data/tx_data/texas.geojson
